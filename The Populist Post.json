@@ -1,0 +1,184 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "The Populist Post.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1486715568290795681",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "The Populist Post",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:15:22.2841088+04:00",
+  "messages": [
+    {
+      "id": "1486715568290795681",
+      "type": "Default",
+      "timestamp": "2026-03-26T17:16:53.32+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from the Populist Post in the USA",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Populist Post.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1486715698188255342",
+      "type": "Default",
+      "timestamp": "2026-03-26T17:17:24.29+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Populist Post.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1486715694224507050",
+          "url": "The Populist Post.json_Files\\E07338E2-ED0C-4486-9FED-F4DFFDA31254-07a3c4e36ad61fa0.jpg",
+          "fileName": "E07338E2-ED0C-4486-9FED-F4DFFDA31254.jpg",
+          "fileSizeBytes": 406222
+        },
+        {
+          "id": "1486715694807650476",
+          "url": "The Populist Post.json_Files\\9F0DCF1B-2D60-438B-AD51-96A698F58F2B-0f4795f682d97dfe.jpg",
+          "fileName": "9F0DCF1B-2D60-438B-AD51-96A698F58F2B.jpg",
+          "fileSizeBytes": 426905
+        },
+        {
+          "id": "1486715695189463061",
+          "url": "The Populist Post.json_Files\\9E6509A5-ABD5-42E8-90E8-AC3402538778-00500f9e5d49736f.jpg",
+          "fileName": "9E6509A5-ABD5-42E8-90E8-AC3402538778.jpg",
+          "fileSizeBytes": 330182
+        },
+        {
+          "id": "1486715695751495701",
+          "url": "The Populist Post.json_Files\\B7AFC0D1-41E3-49DC-BE34-11C3EF30A781-f267077261dfec4c.jpg",
+          "fileName": "B7AFC0D1-41E3-49DC-BE34-11C3EF30A781.jpg",
+          "fileSizeBytes": 396926
+        },
+        {
+          "id": "1486715696174862537",
+          "url": "The Populist Post.json_Files\\978F2437-B2D4-4BF0-8125-BFAB74F2A1A0-8fd72dacceb0990f.jpg",
+          "fileName": "978F2437-B2D4-4BF0-8125-BFAB74F2A1A0.jpg",
+          "fileSizeBytes": 480259
+        },
+        {
+          "id": "1486715696741224518",
+          "url": "The Populist Post.json_Files\\660EFF6D-8BC8-4C36-AD23-1BF79A2FC2BF-ab9641fead52ee62.jpg",
+          "fileName": "660EFF6D-8BC8-4C36-AD23-1BF79A2FC2BF.jpg",
+          "fileSizeBytes": 314742
+        },
+        {
+          "id": "1486715697307320430",
+          "url": "The Populist Post.json_Files\\7BCB3D31-1FEA-4D1F-855C-F49057E8E266-3cda895cbc8a7039.jpg",
+          "fileName": "7BCB3D31-1FEA-4D1F-855C-F49057E8E266.jpg",
+          "fileSizeBytes": 245062
+        },
+        {
+          "id": "1486715697794121898",
+          "url": "The Populist Post.json_Files\\A6E99763-426E-4665-B50C-C093EA41792E-12cb2aa17a43b6d3.jpg",
+          "fileName": "A6E99763-426E-4665-B50C-C093EA41792E.jpg",
+          "fileSizeBytes": 275712
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

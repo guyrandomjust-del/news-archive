@@ -1,0 +1,400 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "The Arganian Truth.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1499662121775009912",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "The Arganian Truth",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:01:11.5582412+04:00",
+  "messages": [
+    {
+      "id": "1499662121775009912",
+      "type": "Default",
+      "timestamp": "2026-05-01T10:41:52.206+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from the Arganian Truth in the Arganian Republic",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Arganian Truth.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1499784941192613928",
+      "type": "Default",
+      "timestamp": "2026-05-01T18:49:54.637+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Arganian Truth.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1499784940600954880",
+          "url": "The Arganian Truth.json_Files\\THE_ARGANIAN_TRUTH-969ddc591b6f5508.png",
+          "fileName": "THE_ARGANIAN_TRUTH.png",
+          "fileSizeBytes": 696435
+        },
+        {
+          "id": "1499784940949213448",
+          "url": "The Arganian Truth.json_Files\\THE_ARGANIAN_TRUTH1-f96f5e04bbec7220.png",
+          "fileName": "THE_ARGANIAN_TRUTH1.png",
+          "fileSizeBytes": 566158
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508758054513016862",
+      "type": "Default",
+      "timestamp": "2026-05-26T13:05:51.565+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Arganian Truth.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1508758054626132179",
+          "url": "The Arganian Truth.json_Files\\THE_ARGANIAN_TRUTH_26_MAY-6d32c1c38447d9fe.png",
+          "fileName": "THE_ARGANIAN_TRUTH_26_MAY.png",
+          "fileSizeBytes": 532142
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1516079631352991895",
+      "type": "Default",
+      "timestamp": "2026-06-15T17:59:11.512+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Arganian Truth.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1516079630719914095",
+          "url": "The Arganian Truth.json_Files\\White_and_Navy_Formal_Minimalist_Company_L-c14e8c8a02a6d1c7.png",
+          "fileName": "White_and_Navy_Formal_Minimalist_Company_Letterhead.png",
+          "fileSizeBytes": 1000805
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1516788750074642532",
+      "type": "Default",
+      "timestamp": "2026-06-17T16:56:58.59+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Arganian Truth.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1516788749705412768",
+          "url": "The Arganian Truth.json_Files\\ARGANIAN_TRUTH-c2592a9095f3b774.png",
+          "fileName": "ARGANIAN_TRUTH.png",
+          "fileSizeBytes": 1055736
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1524368999620677774",
+      "type": "Default",
+      "timestamp": "2026-07-08T14:58:10.916+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Arganian Truth.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1524368999289192508",
+          "url": "The Arganian Truth.json_Files\\ARGANIAN_TRUTH1-ca53a336db774325.png",
+          "fileName": "ARGANIAN_TRUTH1.png",
+          "fileSizeBytes": 358119
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}

@@ -1,0 +1,166 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Elected News and Now.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1498305728962756628",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Elected News and Now",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:14:01.5917197+04:00",
+  "messages": [
+    {
+      "id": "1498305728962756628",
+      "type": "Default",
+      "timestamp": "2026-04-27T16:52:02.959+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from the Elected News and Now",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected News and Now.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1498389235269374114",
+      "type": "Default",
+      "timestamp": "2026-04-27T22:23:52.414+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected News and Now.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1498389233352572948",
+          "url": "Elected News and Now.json_Files\\Screenshot_2026-04-26_at_21.35.32-07f0b6f9322c6399.png",
+          "fileName": "Screenshot_2026-04-26_at_21.35.32.png",
+          "fileSizeBytes": 843944
+        },
+        {
+          "id": "1498389233885384854",
+          "url": "Elected News and Now.json_Files\\Screenshot_2026-04-26_at_21.35.49-dd2f57f779a6ba48.png",
+          "fileName": "Screenshot_2026-04-26_at_21.35.49.png",
+          "fileSizeBytes": 1179290
+        },
+        {
+          "id": "1498389234329850019",
+          "url": "Elected News and Now.json_Files\\Screenshot_2026-04-26_at_21.36.03-50146707c11f1385.png",
+          "fileName": "Screenshot_2026-04-26_at_21.36.03.png",
+          "fileSizeBytes": 1041380
+        },
+        {
+          "id": "1498389234665390160",
+          "url": "Elected News and Now.json_Files\\IMG_1797-49e9e9c68bc46979.png",
+          "fileName": "IMG_1797.png",
+          "fileSizeBytes": 365603
+        },
+        {
+          "id": "1498389235026366485",
+          "url": "Elected News and Now.json_Files\\IMG_1794-9c76abb71640cb6c.png",
+          "fileName": "IMG_1794.png",
+          "fileSizeBytes": 877478
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

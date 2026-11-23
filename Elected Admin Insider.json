@@ -1,0 +1,211 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Elected Admin Insider.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1486713338170966267",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Elected Admin Insider",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:03:50.4569075+04:00",
+  "messages": [
+    {
+      "id": "1486713338170966267",
+      "type": "Default",
+      "timestamp": "2026-03-26T17:08:01.618+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from EA Insider",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Insider.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1486713403157385296",
+      "type": "Default",
+      "timestamp": "2026-03-26T17:08:17.112+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Insider.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1486713401995432097",
+          "url": "Elected Admin Insider.json_Files\\BDBEEACE-0D01-44E4-B4DA-18B513258929-e9efc6a9c7ada4b7.png",
+          "fileName": "BDBEEACE-0D01-44E4-B4DA-18B513258929.png",
+          "fileSizeBytes": 1045515
+        },
+        {
+          "id": "1486713402800734379",
+          "url": "Elected Admin Insider.json_Files\\91236A54-61FF-4CE1-B3CE-75B1DE8A084F-260a70d211a0c583.png",
+          "fileName": "91236A54-61FF-4CE1-B3CE-75B1DE8A084F.png",
+          "fileSizeBytes": 1119839
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508847401082028106",
+      "type": "Default",
+      "timestamp": "2026-05-26T19:00:53.447+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Insider.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1508847401228566558",
+          "url": "Elected Admin Insider.json_Files\\D5931A61-0D9C-4B59-8E64-566472DD49A3-b96d1b060d54f642.jpg",
+          "fileName": "D5931A61-0D9C-4B59-8E64-566472DD49A3.jpg",
+          "fileSizeBytes": 290607
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

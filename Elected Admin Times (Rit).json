@@ -1,0 +1,198 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Elected Admin Times (Rit).json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1321443997637410928",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Elected Admin Times (Rit)",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:21:41.9426469+04:00",
+  "messages": [
+    {
+      "id": "1321443997637410928",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:46:40.279+04:00",
+      "timestampEdited": "2024-12-26T11:00:08.304+04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Every newspaper article from Rit’s EA Times",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Times (Rit).json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321734231688482847",
+      "type": "ChannelNameChange",
+      "timestamp": "2024-12-26T10:59:57.469+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Changed the channel name: Elected Admin Times (Rit)",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Times (Rit).json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321735532727894036",
+      "type": "Default",
+      "timestamp": "2024-12-26T11:05:07.661+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Times (Rit).json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321735532451201035",
+          "url": "Elected Admin Times (Rit).json_Files\\36EFC745-9BEB-4868-9CC0-95AF2DCF325D-9f6935951f21bc38.png",
+          "fileName": "36EFC745-9BEB-4868-9CC0-95AF2DCF325D.png",
+          "fileSizeBytes": 240922
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

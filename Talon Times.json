@@ -1,0 +1,172 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Talon Times.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1482216542245486763",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Talon Times",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:19:28.415296+04:00",
+  "messages": [
+    {
+      "id": "1482216542245486763",
+      "type": "Default",
+      "timestamp": "2026-03-14T07:19:21.923+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from Talon Times from the Talons of Anarchy",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Talon Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1482216731287093360",
+      "type": "Default",
+      "timestamp": "2026-03-14T07:20:06.994+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Talon Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1482216728950865981",
+          "url": "Talon Times.json_Files\\02B23173-5734-4B00-A30F-16A7EBA86FF2-9bc3d904319cceb2.jpg",
+          "fileName": "02B23173-5734-4B00-A30F-16A7EBA86FF2.jpg",
+          "fileSizeBytes": 234956
+        },
+        {
+          "id": "1482216729353388193",
+          "url": "Talon Times.json_Files\\55D7654A-27C6-4A61-AF51-87D569121C87-2a2cdc1868893927.jpg",
+          "fileName": "55D7654A-27C6-4A61-AF51-87D569121C87.jpg",
+          "fileSizeBytes": 290331
+        },
+        {
+          "id": "1482216729810698250",
+          "url": "Talon Times.json_Files\\CB06CC38-C8DF-46EE-91B2-D0D97169743A-45953f3832883708.jpg",
+          "fileName": "CB06CC38-C8DF-46EE-91B2-D0D97169743A.jpg",
+          "fileSizeBytes": 243274
+        },
+        {
+          "id": "1482216730188058705",
+          "url": "Talon Times.json_Files\\0A09C4AB-ABF0-4BFF-A215-B8ED33E83619-66cfaff73658646f.jpg",
+          "fileName": "0A09C4AB-ABF0-4BFF-A215-B8ED33E83619.jpg",
+          "fileSizeBytes": 270060
+        },
+        {
+          "id": "1482216730594902026",
+          "url": "Talon Times.json_Files\\0766BFE3-3954-4189-B6B6-4D9501D3DD2C-5393342e6941b4b2.jpg",
+          "fileName": "0766BFE3-3954-4189-B6B6-4D9501D3DD2C.jpg",
+          "fileSizeBytes": 256904
+        },
+        {
+          "id": "1482216731022983318",
+          "url": "Talon Times.json_Files\\E4D7CA77-6564-4FD5-81B2-3896CD74AABC-06784f7458268329.jpg",
+          "fileName": "E4D7CA77-6564-4FD5-81B2-3896CD74AABC.jpg",
+          "fileSizeBytes": 288933
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

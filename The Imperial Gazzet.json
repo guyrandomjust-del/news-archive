@@ -1,0 +1,229 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "The Imperial Gazzet.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1540759779595526305",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "The Imperial Gazzet",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:53:52.8368366+04:00",
+  "messages": [
+    {
+      "id": "1540759779595526305",
+      "type": "Default",
+      "timestamp": "2026-08-22T20:29:17.388+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from the Imperial Gazzet in the German Empire of Elected Admin",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Imperial Gazzet.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1540759829310603285",
+      "type": "Default",
+      "timestamp": "2026-08-22T20:29:29.241+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Imperial Gazzet.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1540759828639776868",
+          "url": "The Imperial Gazzet.json_Files\\Black_Simple_Newspaper_Birthday_Poster_1-e600e825441bb6bf.png",
+          "fileName": "Black_Simple_Newspaper_Birthday_Poster_1.png",
+          "fileSizeBytes": 3660619
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1565372836074229901",
+      "type": "Default",
+      "timestamp": "2026-10-29T18:32:47.341+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Imperial Gazzet.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1565372832962314402",
+          "url": "The Imperial Gazzet.json_Files\\Black_Simple_Newspaper_Birthday_Poster_2-309c7f2013551247.png",
+          "fileName": "Black_Simple_Newspaper_Birthday_Poster_2.png",
+          "fileSizeBytes": 3027041
+        },
+        {
+          "id": "1565372833641537716",
+          "url": "The Imperial Gazzet.json_Files\\Black_Simple_Newspaper_Birthday_Poster_4-139cb020e2bc5c80.png",
+          "fileName": "Black_Simple_Newspaper_Birthday_Poster_4.png",
+          "fileSizeBytes": 3732318
+        },
+        {
+          "id": "1565372834367144069",
+          "url": "The Imperial Gazzet.json_Files\\Black_Simple_Newspaper_Birthday_Poster_8-65f3194b24fc4b62.png",
+          "fileName": "Black_Simple_Newspaper_Birthday_Poster_8.png",
+          "fileSizeBytes": 4608023
+        },
+        {
+          "id": "1565372835034308618",
+          "url": "The Imperial Gazzet.json_Files\\The_Imperial_Gazzete_6-267baa8176d4dbd1.png",
+          "fileName": "The_Imperial_Gazzete_6.png",
+          "fileSizeBytes": 4166032
+        },
+        {
+          "id": "1565372835734495452",
+          "url": "The Imperial Gazzet.json_Files\\The_Imperial_Gazzete_7-328baae6d3450b3b.png",
+          "fileName": "The_Imperial_Gazzete_7.png",
+          "fileSizeBytes": 4001321
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

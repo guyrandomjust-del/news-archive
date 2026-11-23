@@ -1,0 +1,308 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Daily Espustia.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1321442970272137277",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Daily Espustia",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:21:18.686185+04:00",
+  "messages": [
+    {
+      "id": "1321442970272137277",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:42:35.336+04:00",
+      "timestampEdited": "2024-12-28T14:07:01.976+04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Every newspaper article from Daily Espustia",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Daily Espustia.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1322418275812114462",
+      "type": "ChannelNameChange",
+      "timestamp": "2024-12-28T08:18:06.297+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Changed the channel name: Espustian News",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Daily Espustia.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1322506032986984458",
+      "type": "ChannelNameChange",
+      "timestamp": "2024-12-28T14:06:49.238+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Changed the channel name: Daily Espustia",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Daily Espustia.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1322506219277127680",
+      "type": "Default",
+      "timestamp": "2024-12-28T14:07:33.653+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Daily Espustia.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1322506215841857548",
+          "url": "Daily Espustia.json_Files\\Beztabu-f7b68ab18c85f48e.png",
+          "fileName": "Beztabu.png",
+          "fileSizeBytes": 1448106
+        },
+        {
+          "id": "1322506216207024170",
+          "url": "Daily Espustia.json_Files\\Bez_nosaukumiem-7f63011a1678cc28.png",
+          "fileName": "Bez_nosaukumiem.png",
+          "fileSizeBytes": 1232422
+        },
+        {
+          "id": "1322506216622264350",
+          "url": "Daily Espustia.json_Files\\Bez_nosaukumina-d0b0fafb6091d02b.png",
+          "fileName": "Bez_nosaukumina.png",
+          "fileSizeBytes": 1176354
+        },
+        {
+          "id": "1322506217171451904",
+          "url": "Daily Espustia.json_Files\\Bez_nosaukumasenem-1956d8f6df4e22f4.png",
+          "fileName": "Bez_nosaukumasenem.png",
+          "fileSizeBytes": 940735
+        },
+        {
+          "id": "1322506217498869840",
+          "url": "Daily Espustia.json_Files\\Bez_nosaukuma-73499eed390bcaa8.png",
+          "fileName": "Bez_nosaukuma.png",
+          "fileSizeBytes": 1034103
+        },
+        {
+          "id": "1322506217796407316",
+          "url": "Daily Espustia.json_Files\\image-1408e39308c0c900.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 429604
+        },
+        {
+          "id": "1322506218081751041",
+          "url": "Daily Espustia.json_Files\\bez_nazwy-8f1a6bfc75b8672b.png",
+          "fileName": "bez_nazwy.png",
+          "fileSizeBytes": 164329
+        },
+        {
+          "id": "1322506218354511903",
+          "url": "Daily Espustia.json_Files\\Bez_tytuu-3c1fa5d5cf501b11.png",
+          "fileName": "Bez_tytuu.png",
+          "fileSizeBytes": 466366
+        },
+        {
+          "id": "1322506218702372874",
+          "url": "Daily Espustia.json_Files\\Untitled-91af1822b0a72d2e.png",
+          "fileName": "Untitled.png",
+          "fileSizeBytes": 401992
+        },
+        {
+          "id": "1322506219037921351",
+          "url": "Daily Espustia.json_Files\\IMG_5502-dc4e66e55fdcecc4.png",
+          "fileName": "IMG_5502.png",
+          "fileSizeBytes": 311998
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

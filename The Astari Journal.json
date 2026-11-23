@@ -1,0 +1,166 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "The Astari Journal.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1482554041115607160",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "The Astari Journal",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:17:43.2677062+04:00",
+  "messages": [
+    {
+      "id": "1482554041115607160",
+      "type": "Default",
+      "timestamp": "2026-03-15T05:40:27.924+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from the Astrai Journal in the Astarian Empire.",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Astari Journal.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1482554095041646774",
+      "type": "Default",
+      "timestamp": "2026-03-15T05:40:40.781+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Astari Journal.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1482554091484741714",
+          "url": "The Astari Journal.json_Files\\IMG_4392-8e824b59ee1d40ad.png",
+          "fileName": "IMG_4392.png",
+          "fileSizeBytes": 427117
+        },
+        {
+          "id": "1482554092034330715",
+          "url": "The Astari Journal.json_Files\\IMG_4393-57cc7b0e12d80e84.png",
+          "fileName": "IMG_4393.png",
+          "fileSizeBytes": 251382
+        },
+        {
+          "id": "1482554092638437497",
+          "url": "The Astari Journal.json_Files\\IMG_4391-a2f592b7125b0d57.png",
+          "fileName": "IMG_4391.png",
+          "fileSizeBytes": 294767
+        },
+        {
+          "id": "1482554093649137766",
+          "url": "The Astari Journal.json_Files\\IMG_4390-6bcde7ab14da1423.png",
+          "fileName": "IMG_4390.png",
+          "fileSizeBytes": 653669
+        },
+        {
+          "id": "1482554094559166494",
+          "url": "The Astari Journal.json_Files\\972A6F12-24BC-40C9-A5E0-CACAE7ABFDCA-0f134576d2d5502a.png",
+          "fileName": "972A6F12-24BC-40C9-A5E0-CACAE7ABFDCA.png",
+          "fileSizeBytes": 208855
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,172 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Espustia Times.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1322506436735012884",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Espustia Times",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:20:59.0537149+04:00",
+  "messages": [
+    {
+      "id": "1322506436735012884",
+      "type": "Default",
+      "timestamp": "2024-12-28T14:08:25.499+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Every newspaper article from Espustia Times",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Espustia Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1322506490732478575",
+      "type": "Default",
+      "timestamp": "2024-12-28T14:08:38.373+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Espustia Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1322506489218338878",
+          "url": "Espustia Times.json_Files\\IMG_2447-7b53d47359c8f2f4.png",
+          "fileName": "IMG_2447.png",
+          "fileSizeBytes": 185009
+        },
+        {
+          "id": "1322506489499484220",
+          "url": "Espustia Times.json_Files\\IMG_2434-88b3ce6be262bfc3.png",
+          "fileName": "IMG_2434.png",
+          "fileSizeBytes": 173489
+        },
+        {
+          "id": "1322506489729908857",
+          "url": "Espustia Times.json_Files\\Untitled309_20241223194324-29a4618ed2143348.png",
+          "fileName": "Untitled309_20241223194324.png",
+          "fileSizeBytes": 187371
+        },
+        {
+          "id": "1322506490015252522",
+          "url": "Espustia Times.json_Files\\IMG_2487-7e8ec102e40cebfe.png",
+          "fileName": "IMG_2487.png",
+          "fileSizeBytes": 237715
+        },
+        {
+          "id": "1322506490279628850",
+          "url": "Espustia Times.json_Files\\IMG_2485-b01f16b203b677b2.png",
+          "fileName": "IMG_2485.png",
+          "fileSizeBytes": 243782
+        },
+        {
+          "id": "1322506490552127488",
+          "url": "Espustia Times.json_Files\\IMG_2483-2ed1f3318343d415.png",
+          "fileName": "IMG_2483.png",
+          "fileSizeBytes": 244863
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

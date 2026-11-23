@@ -1,0 +1,154 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Elected Admin Time’s.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1321443709367095338",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Elected Admin Time’s",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:23:43.6819972+04:00",
+  "messages": [
+    {
+      "id": "1321443709367095338",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:45:31.55+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Every newspaper article from EA Time’s",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Time’s.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321443907816525884",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:46:18.864+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Time’s.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321443906612760606",
+          "url": "Elected Admin Time’s.json_Files\\Screenshot_2024-12-14-20-43-10-404_com.miu-42aa878b3309c9ac.jpg",
+          "fileName": "Screenshot_2024-12-14-20-43-10-404_com.miui.notes-edit.jpg",
+          "fileSizeBytes": 1447486
+        },
+        {
+          "id": "1321443907065614356",
+          "url": "Elected Admin Time’s.json_Files\\Screenshot_2024-12-14-20-42-50-202_com.miu-c6cd998681ca0cf1.jpg",
+          "fileName": "Screenshot_2024-12-14-20-42-50-202_com.miui.notes-edit.jpg",
+          "fileSizeBytes": 544029
+        },
+        {
+          "id": "1321443907573252106",
+          "url": "Elected Admin Time’s.json_Files\\Screenshot_2024-12-12-20-56-30-375_com.miu-3196a3cedf872c73.jpg",
+          "fileName": "Screenshot_2024-12-12-20-56-30-375_com.miui.notes-edit.jpg",
+          "fileSizeBytes": 955411
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

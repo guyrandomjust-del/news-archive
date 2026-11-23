@@ -1,0 +1,160 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "The Capitol.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1486714477394006167",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "The Capitol",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:15:59.5956584+04:00",
+  "messages": [
+    {
+      "id": "1486714477394006167",
+      "type": "Default",
+      "timestamp": "2026-03-26T17:12:33.23+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from the Capitol in the USA",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Capitol.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1486714717207789619",
+      "type": "Default",
+      "timestamp": "2026-03-26T17:13:30.406+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Capitol.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1486714714024312912",
+          "url": "The Capitol.json_Files\\A2BC4F8C-0C7B-41FE-A05F-073804A7C8AF-0774e3809f74495e.jpg",
+          "fileName": "A2BC4F8C-0C7B-41FE-A05F-073804A7C8AF.jpg",
+          "fileSizeBytes": 389210
+        },
+        {
+          "id": "1486714714502201374",
+          "url": "The Capitol.json_Files\\207B07EE-5CC3-452C-B8EF-AD5F60DE58B9-09da44559e57cccf.jpg",
+          "fileName": "207B07EE-5CC3-452C-B8EF-AD5F60DE58B9.jpg",
+          "fileSizeBytes": 349885
+        },
+        {
+          "id": "1486714715823542402",
+          "url": "The Capitol.json_Files\\59242DB6-00B6-43B2-A1F8-122EAD51321E-04cae13176c19b3d.png",
+          "fileName": "59242DB6-00B6-43B2-A1F8-122EAD51321E.png",
+          "fileSizeBytes": 7064385
+        },
+        {
+          "id": "1486714717144743946",
+          "url": "The Capitol.json_Files\\832C00F2-DE97-4C8B-8136-3B464F11AB93-accd4f4973963b8b.png",
+          "fileName": "832C00F2-DE97-4C8B-8136-3B464F11AB93.png",
+          "fileSizeBytes": 6866204
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,619 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Electa Rewind.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1486129598071701697",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Electa Rewind",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:11:02.195233+04:00",
+  "messages": [
+    {
+      "id": "1486129598071701697",
+      "type": "Default",
+      "timestamp": "2026-03-25T02:28:27.133+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from Electa Rewind in EA Daily 2.0",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electa Rewind.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1487621675280236799",
+      "type": "Default",
+      "timestamp": "2026-03-29T05:17:26.061+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electa Rewind.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1487621672394817606",
+          "url": "Electa Rewind.json_Files\\958FCFA1-5762-44AE-8B90-25F5DB19FAE8-f00eb9e8c25cde7b.png",
+          "fileName": "958FCFA1-5762-44AE-8B90-25F5DB19FAE8.png",
+          "fileSizeBytes": 757621
+        },
+        {
+          "id": "1487621673036415087",
+          "url": "Electa Rewind.json_Files\\196645F7-B4DA-4074-99B9-1705741C4EF5-001b56f0e45b98a6.png",
+          "fileName": "196645F7-B4DA-4074-99B9-1705741C4EF5.png",
+          "fileSizeBytes": 416060
+        },
+        {
+          "id": "1487621673661235313",
+          "url": "Electa Rewind.json_Files\\1E886220-1C19-47D6-AFD1-F0A88492612E-bbbcb23566343af5.png",
+          "fileName": "1E886220-1C19-47D6-AFD1-F0A88492612E.png",
+          "fileSizeBytes": 2364777
+        },
+        {
+          "id": "1487621674353561740",
+          "url": "Electa Rewind.json_Files\\75079932-4F40-4261-B38C-694495437F7A-79fa9ff2ae00266e.png",
+          "fileName": "75079932-4F40-4261-B38C-694495437F7A.png",
+          "fileSizeBytes": 681341
+        },
+        {
+          "id": "1487621674667999293",
+          "url": "Electa Rewind.json_Files\\image-fc93b4f444cd8094.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 209930
+        },
+        {
+          "id": "1487621675175641269",
+          "url": "Electa Rewind.json_Files\\12AEFBAF-9CFC-484A-9EA3-B4C2E98BDDE2-bb886cfc7e67faa7.png",
+          "fileName": "12AEFBAF-9CFC-484A-9EA3-B4C2E98BDDE2.png",
+          "fileSizeBytes": 2224600
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1495443305280962711",
+      "type": "Default",
+      "timestamp": "2026-04-19T19:17:47.972+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electa Rewind.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1495443304895217834",
+          "url": "Electa Rewind.json_Files\\9E5D3794-73E9-43D7-B902-7F22CC3663B2-8f2eb6f5f237fdad.jpg",
+          "fileName": "9E5D3794-73E9-43D7-B902-7F22CC3663B2.jpg",
+          "fileSizeBytes": 432990
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1495789351399981317",
+      "type": "Default",
+      "timestamp": "2026-04-20T18:12:51.796+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electa Rewind.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1495789350644879532",
+          "url": "Electa Rewind.json_Files\\C649A1B9-33BC-431E-A4EB-C510F96EADA2-7deff7bbb92e5a83.jpg",
+          "fileName": "C649A1B9-33BC-431E-A4EB-C510F96EADA2.jpg",
+          "fileSizeBytes": 415821
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1498715240416673928",
+      "type": "Default",
+      "timestamp": "2026-04-28T19:59:18.098+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electa Rewind.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1498715240441843763",
+          "url": "Electa Rewind.json_Files\\FAFD26DC-9698-4C4D-A56F-1BED2F4785DD-8e01465cd2e84c5a.jpg",
+          "fileName": "FAFD26DC-9698-4C4D-A56F-1BED2F4785DD.jpg",
+          "fileSizeBytes": 267094
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1505199382914404473",
+      "type": "Default",
+      "timestamp": "2026-05-16T17:24:58.139+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electa Rewind.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1505199383032107109",
+          "url": "Electa Rewind.json_Files\\B58B914C-590A-4F39-A39E-BE2F7D2EA04F-584dabc1caee1876.jpg",
+          "fileName": "B58B914C-590A-4F39-A39E-BE2F7D2EA04F.jpg",
+          "fileSizeBytes": 394188
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1505591674783666196",
+      "type": "Default",
+      "timestamp": "2026-05-17T19:23:47.809+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electa Rewind.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1505591674930200666",
+          "url": "Electa Rewind.json_Files\\FA1D04CD-FC3D-4F2F-9653-075F3C1A5ED5-f6c6e04059755117.jpg",
+          "fileName": "FA1D04CD-FC3D-4F2F-9653-075F3C1A5ED5.jpg",
+          "fileSizeBytes": 266497
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1507360455117635594",
+      "type": "Default",
+      "timestamp": "2026-05-22T16:32:17.903+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electa Rewind.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1507360455222366219",
+          "url": "Electa Rewind.json_Files\\6BD21A4B-C1D8-41A6-B2EA-26B9C496AC9D-53ac088a1a13287b.jpg",
+          "fileName": "6BD21A4B-C1D8-41A6-B2EA-26B9C496AC9D.jpg",
+          "fileSizeBytes": 285681
+        },
+        {
+          "id": "1507360455524618400",
+          "url": "Electa Rewind.json_Files\\25BA0F5E-57F1-4661-B8A3-14F3D477EB4E-c31c1257ffff0b8b.jpg",
+          "fileName": "25BA0F5E-57F1-4661-B8A3-14F3D477EB4E.jpg",
+          "fileSizeBytes": 263219
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1507717248968560650",
+      "type": "Default",
+      "timestamp": "2026-05-23T16:10:04.186+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electa Rewind.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1507717249186922596",
+          "url": "Electa Rewind.json_Files\\15A3BE09-703D-4C99-904F-777CC4E35265-25a7f8c98a7d82bd.jpg",
+          "fileName": "15A3BE09-703D-4C99-904F-777CC4E35265.jpg",
+          "fileSizeBytes": 357687
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 9
+}

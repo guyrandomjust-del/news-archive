@@ -1,0 +1,442 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Daily Indie.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1506277776322465953",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Daily Indie",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:03:26.9171227+04:00",
+  "messages": [
+    {
+      "id": "1506277776322465953",
+      "type": "Default",
+      "timestamp": "2026-05-19T16:50:07.163+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from Daily Indie",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Daily Indie.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1506312693869445201",
+      "type": "Default",
+      "timestamp": "2026-05-19T19:08:52.155+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Daily Indie.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1506312694217834596",
+          "url": "Daily Indie.json_Files\\Daily_Indie_Vol_1_Issue_1_3-164ff4874f3863a7.png",
+          "fileName": "Daily_Indie_Vol_1_Issue_1_3.png",
+          "fileSizeBytes": 1154112
+        },
+        {
+          "id": "1506312694846980257",
+          "url": "Daily Indie.json_Files\\Daily_Indie_Vol_1_Issue_2_1-79a7697438afe296.png",
+          "fileName": "Daily_Indie_Vol_1_Issue_2_1.png",
+          "fileSizeBytes": 1291762
+        },
+        {
+          "id": "1506312695232860260",
+          "url": "Daily Indie.json_Files\\Korean-e235c8c42cec14c7.png",
+          "fileName": "Korean.png",
+          "fileSizeBytes": 1169512
+        },
+        {
+          "id": "1506312695585046659",
+          "url": "Daily Indie.json_Files\\Regular-be3afe05ffca2832.png",
+          "fileName": "Regular.png",
+          "fileSizeBytes": 885634
+        },
+        {
+          "id": "1506312696050749560",
+          "url": "Daily Indie.json_Files\\Korean-42fc486ab32a06da.png",
+          "fileName": "Korean.png",
+          "fileSizeBytes": 744354
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1507644280439705752",
+      "type": "Default",
+      "timestamp": "2026-05-23T11:20:07.133+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Daily Indie.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1507644280733437972",
+          "url": "Daily Indie.json_Files\\Regular-92a1d8075fa3a4a9.png",
+          "fileName": "Regular.png",
+          "fileSizeBytes": 1330951
+        },
+        {
+          "id": "1507644281245139036",
+          "url": "Daily Indie.json_Files\\Korean_Regular-b9e3034faf2231d8.png",
+          "fileName": "Korean_Regular.png",
+          "fileSizeBytes": 1142854
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1507903980007587905",
+      "type": "Default",
+      "timestamp": "2026-05-24T04:32:04.335+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Daily Indie.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1507903980360044574",
+          "url": "Daily Indie.json_Files\\Breaking_News-a28abbfd7096e80d.png",
+          "fileName": "Breaking_News.png",
+          "fileSizeBytes": 1090547
+        },
+        {
+          "id": "1507903980754178282",
+          "url": "Daily Indie.json_Files\\Korean_Breaking_News-54cf4c72fe55c2ed.png",
+          "fileName": "Korean_Breaking_News.png",
+          "fileSizeBytes": 1000879
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1509593340012789771",
+      "type": "Default",
+      "timestamp": "2026-05-28T20:24:59.147+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Daily Indie.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1509593339488370799",
+          "url": "Daily Indie.json_Files\\Regular-f7f682214d968581.png",
+          "fileName": "Regular.png",
+          "fileSizeBytes": 1113757
+        },
+        {
+          "id": "1509593340059062392",
+          "url": "Daily Indie.json_Files\\Korean_Regular-c7ae6c09718039c2.png",
+          "fileName": "Korean_Regular.png",
+          "fileSizeBytes": 953418
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1509684957839364166",
+      "type": "Default",
+      "timestamp": "2026-05-29T02:29:02.539+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Daily Indie.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1509684957210083339",
+          "url": "Daily Indie.json_Files\\Regular-f75cd9865021cf9d.png",
+          "fileName": "Regular.png",
+          "fileSizeBytes": 1005030
+        },
+        {
+          "id": "1509684957595832401",
+          "url": "Daily Indie.json_Files\\Korean_Regular-b3aaf395f661c45e.png",
+          "fileName": "Korean_Regular.png",
+          "fileSizeBytes": 880137
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}

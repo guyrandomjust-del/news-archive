@@ -1,0 +1,2839 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Elected Admin Daily.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1321440808750157858",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Elected Admin Daily",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:04:05.4180846+04:00",
+  "messages": [
+    {
+      "id": "1321440808750157858",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:33:59.989+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Every news paper article from EA Daily",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321440950161244200",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:34:33.704+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321440942481477672",
+          "url": "Elected Admin Daily.json_Files\\78828410-D1C3-486B-83F1-C57E0AC3C8E8-1395562d07b29a3d.png",
+          "fileName": "78828410-D1C3-486B-83F1-C57E0AC3C8E8.png",
+          "fileSizeBytes": 753355
+        },
+        {
+          "id": "1321440943047442445",
+          "url": "Elected Admin Daily.json_Files\\E3076EFA-AD34-43F6-9A59-D880248676AA-ed2b92646cc5f2af.png",
+          "fileName": "E3076EFA-AD34-43F6-9A59-D880248676AA.png",
+          "fileSizeBytes": 356549
+        },
+        {
+          "id": "1321440943722729513",
+          "url": "Elected Admin Daily.json_Files\\1B678D71-F600-4393-B1E9-BA52FC99C6A0-53a487579482534c.png",
+          "fileName": "1B678D71-F600-4393-B1E9-BA52FC99C6A0.png",
+          "fileSizeBytes": 748637
+        },
+        {
+          "id": "1321440944213459026",
+          "url": "Elected Admin Daily.json_Files\\DE0AB3DD-BA56-4A0C-B5FF-A2EFB0E71C63-f8fa5a957a1ef406.png",
+          "fileName": "DE0AB3DD-BA56-4A0C-B5FF-A2EFB0E71C63.png",
+          "fileSizeBytes": 309040
+        },
+        {
+          "id": "1321440944662384660",
+          "url": "Elected Admin Daily.json_Files\\E48B5E8B-EF50-4D0E-A2D2-CC8FED24FAFE-7c8186cbcd5a8b6d.png",
+          "fileName": "E48B5E8B-EF50-4D0E-A2D2-CC8FED24FAFE.png",
+          "fileSizeBytes": 161169
+        },
+        {
+          "id": "1321440945073291264",
+          "url": "Elected Admin Daily.json_Files\\78595443-95B1-4477-9DD6-438714B62DDD-4a4b79bc5c9be043.png",
+          "fileName": "78595443-95B1-4477-9DD6-438714B62DDD.png",
+          "fileSizeBytes": 245203
+        },
+        {
+          "id": "1321440945824202802",
+          "url": "Elected Admin Daily.json_Files\\281FDAC2-72F3-4A9D-BB22-9175109047C9-1c3316630d37b9e7.png",
+          "fileName": "281FDAC2-72F3-4A9D-BB22-9175109047C9.png",
+          "fileSizeBytes": 1767297
+        },
+        {
+          "id": "1321440947153670225",
+          "url": "Elected Admin Daily.json_Files\\AA1A608F-EBD3-4EC0-9862-092C7C17FEB3-286f6ecd75af428c.png",
+          "fileName": "AA1A608F-EBD3-4EC0-9862-092C7C17FEB3.png",
+          "fileSizeBytes": 5280087
+        },
+        {
+          "id": "1321440948475138048",
+          "url": "Elected Admin Daily.json_Files\\4777031F-1D40-4CBA-B57D-E5AC480BF4B8-2f0cebbefb03e3df.png",
+          "fileName": "4777031F-1D40-4CBA-B57D-E5AC480BF4B8.png",
+          "fileSizeBytes": 4042773
+        },
+        {
+          "id": "1321440949728968725",
+          "url": "Elected Admin Daily.json_Files\\D8D60EE4-5DF8-43AE-BFC8-409251F6F919-cd584b85a1894a4a.png",
+          "fileName": "D8D60EE4-5DF8-43AE-BFC8-409251F6F919.png",
+          "fileSizeBytes": 3671475
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321441334128541716",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:36:05.249+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321441322036367360",
+          "url": "Elected Admin Daily.json_Files\\34D83492-6A9D-44F3-911F-C6CC121749B1-ef608d505a1a5df9.png",
+          "fileName": "34D83492-6A9D-44F3-911F-C6CC121749B1.png",
+          "fileSizeBytes": 5728109
+        },
+        {
+          "id": "1321441323592585256",
+          "url": "Elected Admin Daily.json_Files\\D93DD3F2-CFD7-4105-B55A-3FCE55828A63-0fe0024dd699f3d1.png",
+          "fileName": "D93DD3F2-CFD7-4105-B55A-3FCE55828A63.png",
+          "fileSizeBytes": 4990166
+        },
+        {
+          "id": "1321441324930699375",
+          "url": "Elected Admin Daily.json_Files\\4031DB39-CB0D-43A9-BB1A-2067A3021368-3c83e6117d26f31d.png",
+          "fileName": "4031DB39-CB0D-43A9-BB1A-2067A3021368.png",
+          "fileSizeBytes": 2678785
+        },
+        {
+          "id": "1321441325542805504",
+          "url": "Elected Admin Daily.json_Files\\E060C0EF-A2DD-4BC4-92E8-F46009C0AE4A-d8cbd7519d5e3966.png",
+          "fileName": "E060C0EF-A2DD-4BC4-92E8-F46009C0AE4A.png",
+          "fileSizeBytes": 1208610
+        },
+        {
+          "id": "1321441326989836372",
+          "url": "Elected Admin Daily.json_Files\\120A6894-BAE7-4183-A055-643805B044AA-eb2ce9390528dc84.png",
+          "fileName": "120A6894-BAE7-4183-A055-643805B044AA.png",
+          "fileSizeBytes": 4250155
+        },
+        {
+          "id": "1321441328432939038",
+          "url": "Elected Admin Daily.json_Files\\807D677D-7E55-4432-B6B3-6CD3DFCF376D-1a808e47675d3183.png",
+          "fileName": "807D677D-7E55-4432-B6B3-6CD3DFCF376D.png",
+          "fileSizeBytes": 6538525
+        },
+        {
+          "id": "1321441329917464586",
+          "url": "Elected Admin Daily.json_Files\\60C4AFB2-36DD-4035-A315-8A010BA5A9BC-71b99465df0f2bf8.png",
+          "fileName": "60C4AFB2-36DD-4035-A315-8A010BA5A9BC.png",
+          "fileSizeBytes": 8825390
+        },
+        {
+          "id": "1321441331381272637",
+          "url": "Elected Admin Daily.json_Files\\C8650450-D208-4FEF-81CC-51BC21902DBB-6c829b4f3e6f1965.png",
+          "fileName": "C8650450-D208-4FEF-81CC-51BC21902DBB.png",
+          "fileSizeBytes": 7309189
+        },
+        {
+          "id": "1321441332618854430",
+          "url": "Elected Admin Daily.json_Files\\29083EE6-9E02-4F92-9AEC-D439D0E81565-39e6e4a39864893e.png",
+          "fileName": "29083EE6-9E02-4F92-9AEC-D439D0E81565.png",
+          "fileSizeBytes": 2699717
+        },
+        {
+          "id": "1321441333830750238",
+          "url": "Elected Admin Daily.json_Files\\A003ED5C-6490-4BA5-BB0B-1FC27825981D-18e80891b6faf1c0.png",
+          "fileName": "A003ED5C-6490-4BA5-BB0B-1FC27825981D.png",
+          "fileSizeBytes": 2769449
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321441473559924826",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:36:38.492+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321441468065251371",
+          "url": "Elected Admin Daily.json_Files\\CC0A7F9C-5769-4789-9DC3-50561DE95BDA-8a73b439c6bbb3c4.png",
+          "fileName": "CC0A7F9C-5769-4789-9DC3-50561DE95BDA.png",
+          "fileSizeBytes": 4662622
+        },
+        {
+          "id": "1321441469252243456",
+          "url": "Elected Admin Daily.json_Files\\93E83C7E-06D4-4559-A7CB-311EF2CD6F7B-4ada56be5878a505.png",
+          "fileName": "93E83C7E-06D4-4559-A7CB-311EF2CD6F7B.png",
+          "fileSizeBytes": 2996703
+        },
+        {
+          "id": "1321441469600632945",
+          "url": "Elected Admin Daily.json_Files\\37FC0EB0-1276-45D6-8DD6-CDC4EDBF0D3A-b9d513accf7f7813.png",
+          "fileName": "37FC0EB0-1276-45D6-8DD6-CDC4EDBF0D3A.png",
+          "fileSizeBytes": 126967
+        },
+        {
+          "id": "1321441471081087007",
+          "url": "Elected Admin Daily.json_Files\\7BE54CE2-0F65-4916-9D0B-3FB793A5506D-b765f8983c606de5.png",
+          "fileName": "7BE54CE2-0F65-4916-9D0B-3FB793A5506D.png",
+          "fileSizeBytes": 3641787
+        },
+        {
+          "id": "1321441471534202910",
+          "url": "Elected Admin Daily.json_Files\\09AE2D5A-EA58-4F8A-8517-5F9EF94F32F3-b82cb2757f66f736.jpg",
+          "fileName": "09AE2D5A-EA58-4F8A-8517-5F9EF94F32F3.jpg",
+          "fileSizeBytes": 215522
+        },
+        {
+          "id": "1321441472158892082",
+          "url": "Elected Admin Daily.json_Files\\6DB13C1B-A528-4A47-B8D2-7E24E520207A-c072ec5713418533.png",
+          "fileName": "6DB13C1B-A528-4A47-B8D2-7E24E520207A.png",
+          "fileSizeBytes": 970825
+        },
+        {
+          "id": "1321441472603750410",
+          "url": "Elected Admin Daily.json_Files\\F679B119-586B-42C7-9C55-A4DAB229B0FF-cdc37364f80b32a8.jpg",
+          "fileName": "F679B119-586B-42C7-9C55-A4DAB229B0FF.jpg",
+          "fileSizeBytes": 26019
+        },
+        {
+          "id": "1321441472880312362",
+          "url": "Elected Admin Daily.json_Files\\B35414D8-0D8C-4611-9FF7-51E08B380999-4b88abb7253c0f7a.jpg",
+          "fileName": "B35414D8-0D8C-4611-9FF7-51E08B380999.jpg",
+          "fileSizeBytes": 25718
+        },
+        {
+          "id": "1321441473136427068",
+          "url": "Elected Admin Daily.json_Files\\9CEFF1B4-23BE-4E52-9C8E-6DC77738DE9E-602f26c0f8891ea1.jpg",
+          "fileName": "9CEFF1B4-23BE-4E52-9C8E-6DC77738DE9E.jpg",
+          "fileSizeBytes": 22722
+        },
+        {
+          "id": "1321441473350205490",
+          "url": "Elected Admin Daily.json_Files\\C00FB078-5F13-4DF1-8361-824D5108BA30-eb8da040b45000d5.jpg",
+          "fileName": "C00FB078-5F13-4DF1-8361-824D5108BA30.jpg",
+          "fileSizeBytes": 20580
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321441612030677022",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:37:11.506+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321441608625033248",
+          "url": "Elected Admin Daily.json_Files\\8C1172D7-2C5A-4D23-9DB4-A82CAFA2D17C-b516dd87523ca1b5.jpg",
+          "fileName": "8C1172D7-2C5A-4D23-9DB4-A82CAFA2D17C.jpg",
+          "fileSizeBytes": 22375
+        },
+        {
+          "id": "1321441608830423061",
+          "url": "Elected Admin Daily.json_Files\\42FDE50C-BAF7-4920-ADCA-05995A15D0EC-2f560cc010c8a842.jpg",
+          "fileName": "42FDE50C-BAF7-4920-ADCA-05995A15D0EC.jpg",
+          "fileSizeBytes": 37484
+        },
+        {
+          "id": "1321441609048395848",
+          "url": "Elected Admin Daily.json_Files\\4801D2FC-ECC2-47DF-83B6-7281EAFEA1B1-f71c50c5f6c46235.jpg",
+          "fileName": "4801D2FC-ECC2-47DF-83B6-7281EAFEA1B1.jpg",
+          "fileSizeBytes": 41500
+        },
+        {
+          "id": "1321441609287733248",
+          "url": "Elected Admin Daily.json_Files\\D38D90C1-680D-43A6-9873-DEF480893456-92e41c78071ec332.jpg",
+          "fileName": "D38D90C1-680D-43A6-9873-DEF480893456.jpg",
+          "fileSizeBytes": 41678
+        },
+        {
+          "id": "1321441609610559501",
+          "url": "Elected Admin Daily.json_Files\\0DC088C3-FF31-427D-9327-DE8521DA4D44-7163a23db3f49338.jpg",
+          "fileName": "0DC088C3-FF31-427D-9327-DE8521DA4D44.jpg",
+          "fileSizeBytes": 39880
+        },
+        {
+          "id": "1321441609845313656",
+          "url": "Elected Admin Daily.json_Files\\59B80E44-6BC1-4B50-B270-75EB63F3042A-f7aa6edb9d3dadea.jpg",
+          "fileName": "59B80E44-6BC1-4B50-B270-75EB63F3042A.jpg",
+          "fileSizeBytes": 37412
+        },
+        {
+          "id": "1321441610114011147",
+          "url": "Elected Admin Daily.json_Files\\381A6F3E-5DB9-412F-ACA6-DBB2DCFC94A0-f3ab89a359871f6a.jpg",
+          "fileName": "381A6F3E-5DB9-412F-ACA6-DBB2DCFC94A0.jpg",
+          "fileSizeBytes": 203795
+        },
+        {
+          "id": "1321441611078565929",
+          "url": "Elected Admin Daily.json_Files\\ED85202E-32AC-4E92-B8F1-0B6D617013BB-2de10132043bc8be.jpg",
+          "fileName": "ED85202E-32AC-4E92-B8F1-0B6D617013BB.jpg",
+          "fileSizeBytes": 1541540
+        },
+        {
+          "id": "1321441611434954762",
+          "url": "Elected Admin Daily.json_Files\\AD801A6B-1C7F-4CD8-B158-2508110AEDC8-1b4cb00a17b4f94b.png",
+          "fileName": "AD801A6B-1C7F-4CD8-B158-2508110AEDC8.png",
+          "fileSizeBytes": 204826
+        },
+        {
+          "id": "1321441611825287218",
+          "url": "Elected Admin Daily.json_Files\\FEAC1709-F7EC-4944-997C-6994D4008370-a73c43fe2087a032.jpg",
+          "fileName": "FEAC1709-F7EC-4944-997C-6994D4008370.jpg",
+          "fileSizeBytes": 150498
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321441854167846912",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:38:09.236+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321441848602132511",
+          "url": "Elected Admin Daily.json_Files\\743DA21B-04B3-47D6-BC08-6BA02871E0B5-1d607fab82fe2c00.jpg",
+          "fileName": "743DA21B-04B3-47D6-BC08-6BA02871E0B5.jpg",
+          "fileSizeBytes": 81920
+        },
+        {
+          "id": "1321441848983818260",
+          "url": "Elected Admin Daily.json_Files\\EA_Daily_11-f8d826dd9fa80634.png",
+          "fileName": "EA_Daily_11.png",
+          "fileSizeBytes": 773644
+        },
+        {
+          "id": "1321441849503645747",
+          "url": "Elected Admin Daily.json_Files\\EA_Daily_13-d3fc21387ec6411d.png",
+          "fileName": "EA_Daily_13.png",
+          "fileSizeBytes": 883059
+        },
+        {
+          "id": "1321441850162417685",
+          "url": "Elected Admin Daily.json_Files\\New_Value_accoun.zip_-_5-318be16f2a89d6c1.png",
+          "fileName": "New_Value_accoun.zip_-_5.png",
+          "fileSizeBytes": 2217794
+        },
+        {
+          "id": "1321441850774782053",
+          "url": "Elected Admin Daily.json_Files\\1319681041882943509remix-1734709887026-46648e573f9fe548.png",
+          "fileName": "1319681041882943509remix-1734709887026.png",
+          "fileSizeBytes": 1298573
+        },
+        {
+          "id": "1321441851278102539",
+          "url": "Elected Admin Daily.json_Files\\New_Value_accoun.zip_-_3-bd19027aedace107.png",
+          "fileName": "New_Value_accoun.zip_-_3.png",
+          "fileSizeBytes": 1213186
+        },
+        {
+          "id": "1321441851915632640",
+          "url": "Elected Admin Daily.json_Files\\New_Value_accoun.zip_-_4-fbb43b2137cf4d00.png",
+          "fileName": "New_Value_accoun.zip_-_4.png",
+          "fileSizeBytes": 2056569
+        },
+        {
+          "id": "1321441852565622797",
+          "url": "Elected Admin Daily.json_Files\\A9F8DEDA-900C-49D3-AB27-2CFC56C5BB00-950cfead38e0fd35.png",
+          "fileName": "A9F8DEDA-900C-49D3-AB27-2CFC56C5BB00.png",
+          "fileSizeBytes": 2185295
+        },
+        {
+          "id": "1321441853383507999",
+          "url": "Elected Admin Daily.json_Files\\FCC3B5C4-95D2-4001-86DB-B45B55D10653-4999cde5ba39d0d1.png",
+          "fileName": "FCC3B5C4-95D2-4001-86DB-B45B55D10653.png",
+          "fileSizeBytes": 2484485
+        },
+        {
+          "id": "1321441853941223475",
+          "url": "Elected Admin Daily.json_Files\\8D838032-B8DF-4AD3-94DE-E7A6A583F408-5f23754b3c19f4ce.jpg",
+          "fileName": "8D838032-B8DF-4AD3-94DE-E7A6A583F408.jpg",
+          "fileSizeBytes": 140345
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321442016764362784",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:38:48.002+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321442013165523015",
+          "url": "Elected Admin Daily.json_Files\\A99B1AF5-11E8-499D-8925-2B38707D6DE5-30e3ea668da6d19c.jpg",
+          "fileName": "A99B1AF5-11E8-499D-8925-2B38707D6DE5.jpg",
+          "fileSizeBytes": 135767
+        },
+        {
+          "id": "1321442013517709373",
+          "url": "Elected Admin Daily.json_Files\\IMG_2508-0161cf42e7d008fe.jpg",
+          "fileName": "IMG_2508.jpg",
+          "fileSizeBytes": 516059
+        },
+        {
+          "id": "1321442013807247421",
+          "url": "Elected Admin Daily.json_Files\\35F9A8D7-E4AE-403C-8EEF-92C535347B8A-926f19a18d07bc11.jpg",
+          "fileName": "35F9A8D7-E4AE-403C-8EEF-92C535347B8A.jpg",
+          "fileSizeBytes": 219425
+        },
+        {
+          "id": "1321442014239395880",
+          "url": "Elected Admin Daily.json_Files\\image-00ae8a6fb156cee6.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 564092
+        },
+        {
+          "id": "1321442014637850645",
+          "url": "Elected Admin Daily.json_Files\\image-1b2af3dc114c753e.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 286281
+        },
+        {
+          "id": "1321442014981521418",
+          "url": "Elected Admin Daily.json_Files\\29BB9537-1561-412F-8D5D-597984046CF9-eb0fa4087aeeed04.jpg",
+          "fileName": "29BB9537-1561-412F-8D5D-597984046CF9.jpg",
+          "fileSizeBytes": 145350
+        },
+        {
+          "id": "1321442015296225300",
+          "url": "Elected Admin Daily.json_Files\\EF808412-109D-4F4D-B142-C0AD16FD2EB7-4242380d71ef1dc1.jpg",
+          "fileName": "EF808412-109D-4F4D-B142-C0AD16FD2EB7.jpg",
+          "fileSizeBytes": 97226
+        },
+        {
+          "id": "1321442015644356648",
+          "url": "Elected Admin Daily.json_Files\\7B6ED32C-0E13-4B9E-BD99-6ECC6B0C93BC-1634cf0e62ae66b1.png",
+          "fileName": "7B6ED32C-0E13-4B9E-BD99-6ECC6B0C93BC.png",
+          "fileSizeBytes": 540939
+        },
+        {
+          "id": "1321442016072302604",
+          "url": "Elected Admin Daily.json_Files\\6CBCBCCD-4099-4CBA-8A04-5297AABA182B-61ff7c261a865aca.png",
+          "fileName": "6CBCBCCD-4099-4CBA-8A04-5297AABA182B.png",
+          "fileSizeBytes": 420922
+        },
+        {
+          "id": "1321442016650858496",
+          "url": "Elected Admin Daily.json_Files\\White_Minimalist_Economics_Headline_News_I-5edfee8569f29f13.jpg",
+          "fileName": "White_Minimalist_Economics_Headline_News_Instagram_Post_20241208_172718_0000.jpg",
+          "fileSizeBytes": 321952
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321442190349697104",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:39:29.388+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321442186906173500",
+          "url": "Elected Admin Daily.json_Files\\image-f85e218284acdf53.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 580336
+        },
+        {
+          "id": "1321442187287990413",
+          "url": "Elected Admin Daily.json_Files\\image-b341f14d761d4de0.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 484595
+        },
+        {
+          "id": "1321442187644239944",
+          "url": "Elected Admin Daily.json_Files\\image-af8c2494c9ba9fc9.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 407592
+        },
+        {
+          "id": "1321442188021862421",
+          "url": "Elected Admin Daily.json_Files\\image-95c9b9a7faf90a10.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 663534
+        },
+        {
+          "id": "1321442188374179971",
+          "url": "Elected Admin Daily.json_Files\\image-1ec2c525f8839228.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 624381
+        },
+        {
+          "id": "1321442188655071232",
+          "url": "Elected Admin Daily.json_Files\\34F693E1-2FD6-4083-9901-5D48F1CA22DD-c01358e175c0c851.jpg",
+          "fileName": "34F693E1-2FD6-4083-9901-5D48F1CA22DD.jpg",
+          "fileSizeBytes": 122740
+        },
+        {
+          "id": "1321442189003460608",
+          "url": "Elected Admin Daily.json_Files\\IMG_0550-cf3e9421142610d2.png",
+          "fileName": "IMG_0550.png",
+          "fileSizeBytes": 901618
+        },
+        {
+          "id": "1321442189326286891",
+          "url": "Elected Admin Daily.json_Files\\White_Minimalist_Economics_Headline_News_I-653ff0f4e803abea.jpg",
+          "fileName": "White_Minimalist_Economics_Headline_News_Instagram_Post_20241201_122733_0000.jpg",
+          "fileSizeBytes": 344434
+        },
+        {
+          "id": "1321442189686870096",
+          "url": "Elected Admin Daily.json_Files\\White_Minimalist_Economics_Headline_News_I-488a54dd04d6a8ff.jpg",
+          "fileName": "White_Minimalist_Economics_Headline_News_Instagram_Post_20241201_181013_0000.jpg",
+          "fileSizeBytes": 431128
+        },
+        {
+          "id": "1321442189984796733",
+          "url": "Elected Admin Daily.json_Files\\B79AA073-43CF-49D2-8138-53DE0273E248-326849a88704a531.png",
+          "fileName": "B79AA073-43CF-49D2-8138-53DE0273E248.png",
+          "fileSizeBytes": 296960
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321442349447905372",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:40:07.32+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321442345685745705",
+          "url": "Elected Admin Daily.json_Files\\Zonder_titel49_20241107215021-66fb2805cc104f20.png",
+          "fileName": "Zonder_titel49_20241107215021.png",
+          "fileSizeBytes": 436871
+        },
+        {
+          "id": "1321442346105045083",
+          "url": "Elected Admin Daily.json_Files\\9D5C8303-7C78-4996-8547-253170DA4176-e79aee5c8045f3ab.png",
+          "fileName": "9D5C8303-7C78-4996-8547-253170DA4176.png",
+          "fileSizeBytes": 1129507
+        },
+        {
+          "id": "1321442346675474443",
+          "url": "Elected Admin Daily.json_Files\\3F7E7E55-A59E-466B-991A-A593C84E3671-282c5bbe4077f7d8.png",
+          "fileName": "3F7E7E55-A59E-466B-991A-A593C84E3671.png",
+          "fileSizeBytes": 1579294
+        },
+        {
+          "id": "1321442347174723614",
+          "url": "Elected Admin Daily.json_Files\\643CFAD2-DC36-42DF-840C-55C47B9C60A1-cf462a4e7b527ce3.png",
+          "fileName": "643CFAD2-DC36-42DF-840C-55C47B9C60A1.png",
+          "fileSizeBytes": 616450
+        },
+        {
+          "id": "1321442347598217217",
+          "url": "Elected Admin Daily.json_Files\\DA01C96F-B178-48FC-970E-4B3271B1D1FF-1d13fcb0a5f649bf.jpg",
+          "fileName": "DA01C96F-B178-48FC-970E-4B3271B1D1FF.jpg",
+          "fileSizeBytes": 118546
+        },
+        {
+          "id": "1321442347887628298",
+          "url": "Elected Admin Daily.json_Files\\AA463C22-4285-48BB-8B11-FBDB33911003-1acfdb7cff82762c.jpg",
+          "fileName": "AA463C22-4285-48BB-8B11-FBDB33911003.jpg",
+          "fileSizeBytes": 188586
+        },
+        {
+          "id": "1321442348202328104",
+          "url": "Elected Admin Daily.json_Files\\6F730B95-8D1B-4E3F-A452-8F570BFDC56C-93a3481197c3b772.jpg",
+          "fileName": "6F730B95-8D1B-4E3F-A452-8F570BFDC56C.jpg",
+          "fileSizeBytes": 166643
+        },
+        {
+          "id": "1321442348562907160",
+          "url": "Elected Admin Daily.json_Files\\ACBE491F-A22F-4E0E-AC60-7E61D48D54CF-2d8e5e437c474ba2.png",
+          "fileName": "ACBE491F-A22F-4E0E-AC60-7E61D48D54CF.png",
+          "fileSizeBytes": 611114
+        },
+        {
+          "id": "1321442348978147414",
+          "url": "Elected Admin Daily.json_Files\\38BF2593-EE60-4018-9CBC-9A679CF96803-99cc5ac8d6b147b0.jpg",
+          "fileName": "38BF2593-EE60-4018-9CBC-9A679CF96803.jpg",
+          "fileSizeBytes": 140693
+        },
+        {
+          "id": "1321442349250904207",
+          "url": "Elected Admin Daily.json_Files\\0814A9C2-53CA-4B8E-A5A0-5DAE5C3BCDD8-9583e939e6b1509b.jpg",
+          "fileName": "0814A9C2-53CA-4B8E-A5A0-5DAE5C3BCDD8.jpg",
+          "fileSizeBytes": 191785
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321442569481097268",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:40:59.78+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321442565282594946",
+          "url": "Elected Admin Daily.json_Files\\2-316ccdb83ab5423d.png",
+          "fileName": "2.png",
+          "fileSizeBytes": 2837009
+        },
+        {
+          "id": "1321442566083711026",
+          "url": "Elected Admin Daily.json_Files\\1-cf12c4d469ded188.png",
+          "fileName": "1.png",
+          "fileSizeBytes": 1667074
+        },
+        {
+          "id": "1321442566620839967",
+          "url": "Elected Admin Daily.json_Files\\Copy_of_Copy_of_Copy_of_Copy_of_Your_parag-a7c7f30c696e7ebc.png",
+          "fileName": "Copy_of_Copy_of_Copy_of_Copy_of_Your_paragraph_text.png",
+          "fileSizeBytes": 1186679
+        },
+        {
+          "id": "1321442567107121212",
+          "url": "Elected Admin Daily.json_Files\\poo-41139e3692700484.png",
+          "fileName": "poo.png",
+          "fileSizeBytes": 1007123
+        },
+        {
+          "id": "1321442567564558386",
+          "url": "Elected Admin Daily.json_Files\\Post_7_2-5e4867142dcf4bf6.png",
+          "fileName": "Post_7_2.png",
+          "fileSizeBytes": 1036217
+        },
+        {
+          "id": "1321442567971410030",
+          "url": "Elected Admin Daily.json_Files\\Copy_of_Post_5-24934f6ea696795a.png",
+          "fileName": "Copy_of_Post_5.png",
+          "fileSizeBytes": 1117761
+        },
+        {
+          "id": "1321442568424259676",
+          "url": "Elected Admin Daily.json_Files\\Copy_of_Post_6-3355cd57dc7347c3.png",
+          "fileName": "Copy_of_Post_6.png",
+          "fileSizeBytes": 808051
+        },
+        {
+          "id": "1321442568944222269",
+          "url": "Elected Admin Daily.json_Files\\Heading_1-dba923e49645cc9b.png",
+          "fileName": "Heading_1.png",
+          "fileSizeBytes": 841677
+        },
+        {
+          "id": "1321442569321840721",
+          "url": "Elected Admin Daily.json_Files\\Az8UCDGkav-95eb83025d06fd3a.png",
+          "fileName": "Az8UCDGkav.png",
+          "fileSizeBytes": 463444
+        },
+        {
+          "id": "1321442569682419803",
+          "url": "Elected Admin Daily.json_Files\\DzTZNp8CH9-8727e61a582beceb.png",
+          "fileName": "DzTZNp8CH9.png",
+          "fileSizeBytes": 602854
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321442691719893062",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:41:28.924+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321442686611492925",
+          "url": "Elected Admin Daily.json_Files\\zkYXKRAAGC-db616d7b5173ec39.png",
+          "fileName": "zkYXKRAAGC.png",
+          "fileSizeBytes": 494304
+        },
+        {
+          "id": "1321442687039176714",
+          "url": "Elected Admin Daily.json_Files\\1-5d6e190cb4382515.png",
+          "fileName": "1.png",
+          "fileSizeBytes": 1086326
+        },
+        {
+          "id": "1321442687580377128",
+          "url": "Elected Admin Daily.json_Files\\Heading_2-227dbdf951b9bd36.png",
+          "fileName": "Heading_2.png",
+          "fileSizeBytes": 1066269
+        },
+        {
+          "id": "1321442688037421076",
+          "url": "Elected Admin Daily.json_Files\\EA_Daily-223a1aa28a8cbf05.png",
+          "fileName": "EA_Daily.png",
+          "fileSizeBytes": 1500493
+        },
+        {
+          "id": "1321442688637210664",
+          "url": "Elected Admin Daily.json_Files\\2-09ba7edd0a8ed05c.png",
+          "fileName": "2.png",
+          "fileSizeBytes": 2508010
+        },
+        {
+          "id": "1321442689316552734",
+          "url": "Elected Admin Daily.json_Files\\1_copy-cac91e29c650ae9f.png",
+          "fileName": "1_copy.png",
+          "fileSizeBytes": 864222
+        },
+        {
+          "id": "1321442689878593599",
+          "url": "Elected Admin Daily.json_Files\\EA_Daily-7ab45c293f7bb004.png",
+          "fileName": "EA_Daily.png",
+          "fileSizeBytes": 1422791
+        },
+        {
+          "id": "1321442690541420544",
+          "url": "Elected Admin Daily.json_Files\\1-8610505e110f3483.png",
+          "fileName": "1.png",
+          "fileSizeBytes": 1432613
+        },
+        {
+          "id": "1321442690931363970",
+          "url": "Elected Admin Daily.json_Files\\E6tt4RXPoQ-169a2b9b01d4a68a.png",
+          "fileName": "E6tt4RXPoQ.png",
+          "fileSizeBytes": 484110
+        },
+        {
+          "id": "1321442691367698483",
+          "url": "Elected Admin Daily.json_Files\\wjGZ1tysVH-a6e3db1741dbea3c.png",
+          "fileName": "wjGZ1tysVH.png",
+          "fileSizeBytes": 296823
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1325359013579325491",
+      "type": "Default",
+      "timestamp": "2025-01-05T11:03:32.817+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1325359011394097152",
+          "url": "Elected Admin Daily.json_Files\\Heading_3-5239cff4e210b2a5.png",
+          "fileName": "Heading_3.png",
+          "fileSizeBytes": 1021937
+        },
+        {
+          "id": "1325359011939483669",
+          "url": "Elected Admin Daily.json_Files\\image-ae3dce550e16dcbf.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 84272
+        },
+        {
+          "id": "1325359012405055539",
+          "url": "Elected Admin Daily.json_Files\\Screenshot_2024-09-15_140548-ddbbc184e4b5f315.png",
+          "fileName": "Screenshot_2024-09-15_140548.png",
+          "fileSizeBytes": 108622
+        },
+        {
+          "id": "1325359012916498503",
+          "url": "Elected Admin Daily.json_Files\\ACHxYKf-d1045beb2c740703.png",
+          "fileName": "ACHxYKf.png",
+          "fileSizeBytes": 1976786
+        },
+        {
+          "id": "1325359013457694802",
+          "url": "Elected Admin Daily.json_Files\\image-b4326fa1631c2fa7.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 119240
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1326823125203288094",
+      "type": "Default",
+      "timestamp": "2025-01-09T12:01:24.23+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1326823124343328822",
+          "url": "Elected Admin Daily.json_Files\\5bKFvd9-a468dab43f769a4c.png",
+          "fileName": "5bKFvd9.png",
+          "fileSizeBytes": 1416513
+        },
+        {
+          "id": "1326823124871807007",
+          "url": "Elected Admin Daily.json_Files\\r4CvSfN-cb88b236cbb8bd21.png",
+          "fileName": "r4CvSfN.png",
+          "fileSizeBytes": 1238770
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327862583562076251",
+      "type": "Default",
+      "timestamp": "2025-01-12T08:51:50.415+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1327862583390376066",
+          "url": "Elected Admin Daily.json_Files\\image-e2dd9dfa7919226f.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 43969
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1328634393643716669",
+      "type": "Default",
+      "timestamp": "2025-01-14T11:58:44.278+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1328634390862889040",
+          "url": "Elected Admin Daily.json_Files\\Black_and_Grey_Modern_Fashion_Photography_-ddfa5313b580f3ce.jpg",
+          "fileName": "Black_and_Grey_Modern_Fashion_Photography_Article_Page_Document_20241201_182653_0000.jpg",
+          "fileSizeBytes": 599974
+        },
+        {
+          "id": "1328634391425187860",
+          "url": "Elected Admin Daily.json_Files\\2-45237c0f99d0fc45.png",
+          "fileName": "2.png",
+          "fileSizeBytes": 2215739
+        },
+        {
+          "id": "1328634391999545375",
+          "url": "Elected Admin Daily.json_Files\\1-41eb5ce36ad4e7e0.png",
+          "fileName": "1.png",
+          "fileSizeBytes": 1605660
+        },
+        {
+          "id": "1328634392310054972",
+          "url": "Elected Admin Daily.json_Files\\Screenshot_2024-09-20_031705-7d750288e01b0daa.png",
+          "fileName": "Screenshot_2024-09-20_031705.png",
+          "fileSizeBytes": 145247
+        },
+        {
+          "id": "1328634392570105937",
+          "url": "Elected Admin Daily.json_Files\\Screenshot_2024-09-16_190523-1605d25ccab0963b.png",
+          "fileName": "Screenshot_2024-09-16_190523.png",
+          "fileSizeBytes": 191044
+        },
+        {
+          "id": "1328634392901324832",
+          "url": "Elected Admin Daily.json_Files\\Screenshot_2024-09-06_162852-8f31bf0388fb8a9d.png",
+          "fileName": "Screenshot_2024-09-06_162852.png",
+          "fileSizeBytes": 990595
+        },
+        {
+          "id": "1328634393216024577",
+          "url": "Elected Admin Daily.json_Files\\Screenshot_2024-09-23_152742-92a1d6a2eefb560c.png",
+          "fileName": "Screenshot_2024-09-23_152742.png",
+          "fileSizeBytes": 199394
+        },
+        {
+          "id": "1328634393455231018",
+          "url": "Elected Admin Daily.json_Files\\Screenshot_2024-09-23_155044-8393db3cc0062322.png",
+          "fileName": "Screenshot_2024-09-23_155044.png",
+          "fileSizeBytes": 129123
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1332895755404574852",
+      "type": "Default",
+      "timestamp": "2025-01-26T06:11:52.094+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1332895751516328066",
+          "url": "Elected Admin Daily.json_Files\\image-bc033857a629e0cb.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 106550
+        },
+        {
+          "id": "1332895752061456446",
+          "url": "Elected Admin Daily.json_Files\\Minimalist_Black_and_White_Blank_Paper_Doc-7a0ad4b90e4b6d4c.jpg",
+          "fileName": "Minimalist_Black_and_White_Blank_Paper_Document_20250119_161618_0000.jpg",
+          "fileSizeBytes": 284696
+        },
+        {
+          "id": "1332895752376287232",
+          "url": "Elected Admin Daily.json_Files\\image-1-a7e67f96772a56b2.webp",
+          "fileName": "image-1.webp",
+          "fileSizeBytes": 303403
+        },
+        {
+          "id": "1332895752707375116",
+          "url": "Elected Admin Daily.json_Files\\0A0496EB-2733-4458-825F-AC5C9703C220-2082d88be0afeee4.jpg",
+          "fileName": "0A0496EB-2733-4458-825F-AC5C9703C220.jpg",
+          "fileSizeBytes": 205071
+        },
+        {
+          "id": "1332895753022083092",
+          "url": "Elected Admin Daily.json_Files\\image-a058d9e76100185b.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 406060
+        },
+        {
+          "id": "1332895753613348904",
+          "url": "Elected Admin Daily.json_Files\\Minimalist_Black_and_White_Blank_Paper_Doc-6486b3f35f09827e.jpg",
+          "fileName": "Minimalist_Black_and_White_Blank_Paper_Document_20250115_191728_0000.jpg",
+          "fileSizeBytes": 267256
+        },
+        {
+          "id": "1332895753970122813",
+          "url": "Elected Admin Daily.json_Files\\14-01-25.png-2e9637227f1600eb.png",
+          "fileName": "14-01-25.png.png",
+          "fileSizeBytes": 992591
+        },
+        {
+          "id": "1332895754422976596",
+          "url": "Elected Admin Daily.json_Files\\14-01-25.png-3db52ceba637405c.png",
+          "fileName": "14-01-25.png.png",
+          "fileSizeBytes": 1064208
+        },
+        {
+          "id": "1332895754829828117",
+          "url": "Elected Admin Daily.json_Files\\IMG_0060-532859618c25eb2b.png",
+          "fileName": "IMG_0060.png",
+          "fileSizeBytes": 927393
+        },
+        {
+          "id": "1332895755173756999",
+          "url": "Elected Admin Daily.json_Files\\1EC44713-9ED0-408B-ACA9-1B7B148FDA27-30a57b30ef93429f.jpg",
+          "fileName": "1EC44713-9ED0-408B-ACA9-1B7B148FDA27.jpg",
+          "fileSizeBytes": 658214
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1332909537287471146",
+      "type": "Default",
+      "timestamp": "2025-01-26T07:06:37.951+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1332909536364724346",
+          "url": "Elected Admin Daily.json_Files\\C7CAC4E0-020E-4736-AB28-68207F357B11-9344c7d3d9111fcc.jpg",
+          "fileName": "C7CAC4E0-020E-4736-AB28-68207F357B11.jpg",
+          "fileSizeBytes": 239160
+        },
+        {
+          "id": "1332909536750604329",
+          "url": "Elected Admin Daily.json_Files\\360DD1E4-6C1D-4A8C-A3D2-0A048A992B48-d6b4845552f965b0.jpg",
+          "fileName": "360DD1E4-6C1D-4A8C-A3D2-0A048A992B48.jpg",
+          "fileSizeBytes": 223460
+        },
+        {
+          "id": "1332909537048526848",
+          "url": "Elected Admin Daily.json_Files\\FF476437-947B-42AF-81A9-34D298898A17-f5006641dcf7d790.jpg",
+          "fileName": "FF476437-947B-42AF-81A9-34D298898A17.jpg",
+          "fileSizeBytes": 185986
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1333804026596294656",
+      "type": "Default",
+      "timestamp": "2025-01-28T18:21:00.821+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1333804025371693160",
+          "url": "Elected Admin Daily.json_Files\\BE77A343-1F7A-4AA7-82C9-09E762C62B9A-89a19ca083b908f9.webp",
+          "fileName": "BE77A343-1F7A-4AA7-82C9-09E762C62B9A.webp",
+          "fileSizeBytes": 80342
+        },
+        {
+          "id": "1333804025837125643",
+          "url": "Elected Admin Daily.json_Files\\ma0XDGSnSu-7a88e0d80e6a3120.webp",
+          "fileName": "ma0XDGSnSu.webp",
+          "fileSizeBytes": 162728
+        },
+        {
+          "id": "1333804026281857024",
+          "url": "Elected Admin Daily.json_Files\\EA_Daily4-7342c72c8191542e.webp",
+          "fileName": "EA_Daily4.webp",
+          "fileSizeBytes": 178864
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428517537405993092",
+      "type": "Default",
+      "timestamp": "2025-10-17T02:58:41.49+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1428517526991667220",
+          "url": "Elected Admin Daily.json_Files\\Heading_2-b4be7ff0a15778cc.png",
+          "fileName": "Heading_2.png",
+          "fileSizeBytes": 1387501
+        },
+        {
+          "id": "1428517527478341793",
+          "url": "Elected Admin Daily.json_Files\\Heading_1-b51a208e97f26e65.png",
+          "fileName": "Heading_1.png",
+          "fileSizeBytes": 1131936
+        },
+        {
+          "id": "1428517527830532228",
+          "url": "Elected Admin Daily.json_Files\\Heading_3-3fdc684020f0207b.png",
+          "fileName": "Heading_3.png",
+          "fileSizeBytes": 1171115
+        },
+        {
+          "id": "1428517528203694080",
+          "url": "Elected Admin Daily.json_Files\\Heading_1-f7f53aeb5c202ece.png",
+          "fileName": "Heading_1.png",
+          "fileSizeBytes": 1051227
+        },
+        {
+          "id": "1428517535346724915",
+          "url": "Elected Admin Daily.json_Files\\1-1373c62e74999faa.png",
+          "fileName": "1.png",
+          "fileSizeBytes": 985583
+        },
+        {
+          "id": "1428517535896309861",
+          "url": "Elected Admin Daily.json_Files\\2-5e8402568c4407af.png",
+          "fileName": "2.png",
+          "fileSizeBytes": 873765
+        },
+        {
+          "id": "1428517536361746432",
+          "url": "Elected Admin Daily.json_Files\\image-7ddd70474811cf57.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 191234
+        },
+        {
+          "id": "1428517536923914240",
+          "url": "Elected Admin Daily.json_Files\\a618511c-f96b-4dc4-8ac3-2f38e973595e-d5af84f13843449f.png",
+          "fileName": "a618511c-f96b-4dc4-8ac3-2f38e973595e.png",
+          "fileSizeBytes": 2424005
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1482226950327111872",
+      "type": "Default",
+      "timestamp": "2026-03-14T08:00:43.403+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1482226950205603921",
+          "url": "Elected Admin Daily.json_Files\\Heading_1-edcd9a29e1aa65c4.png",
+          "fileName": "Heading_1.png",
+          "fileSizeBytes": 1771344
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1486711844319006881",
+      "type": "Default",
+      "timestamp": "2026-03-26T17:02:05.456+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1486711839558602894",
+          "url": "Elected Admin Daily.json_Files\\83C07DF5-729A-4DAE-9C79-65DD790C024C-72f53f00f62721a5.png",
+          "fileName": "83C07DF5-729A-4DAE-9C79-65DD790C024C.png",
+          "fileSizeBytes": 625075
+        },
+        {
+          "id": "1486711840326287410",
+          "url": "Elected Admin Daily.json_Files\\FEA0A9A8-E80F-448D-9097-3F89ECEB52D5-2deefced7073af99.png",
+          "fileName": "FEA0A9A8-E80F-448D-9097-3F89ECEB52D5.png",
+          "fileSizeBytes": 655435
+        },
+        {
+          "id": "1486711840770887770",
+          "url": "Elected Admin Daily.json_Files\\77B3DFB1-A379-4C70-BECD-522D7ED356F9-78819c3aa676b239.jpg",
+          "fileName": "77B3DFB1-A379-4C70-BECD-522D7ED356F9.jpg",
+          "fileSizeBytes": 215169
+        },
+        {
+          "id": "1486711841152307351",
+          "url": "Elected Admin Daily.json_Files\\85E10F7B-70C5-4246-A51A-731F8EEC9613-553b4646b2af0290.jpg",
+          "fileName": "85E10F7B-70C5-4246-A51A-731F8EEC9613.jpg",
+          "fileSizeBytes": 183500
+        },
+        {
+          "id": "1486711841588645889",
+          "url": "Elected Admin Daily.json_Files\\5F041089-BC0A-47C7-B6B2-71DB476DCEDA-3c80d3cd48044ab1.jpg",
+          "fileName": "5F041089-BC0A-47C7-B6B2-71DB476DCEDA.jpg",
+          "fileSizeBytes": 180170
+        },
+        {
+          "id": "1486711842062733414",
+          "url": "Elected Admin Daily.json_Files\\60C700A9-B75C-4688-B681-56F8E777CE67-fcb42fb8efcf64e8.png",
+          "fileName": "60C700A9-B75C-4688-B681-56F8E777CE67.png",
+          "fileSizeBytes": 216104
+        },
+        {
+          "id": "1486711842456993822",
+          "url": "Elected Admin Daily.json_Files\\41F9681C-A702-434F-94FD-1B0144CFB93D-4aa61265df390ca3.jpg",
+          "fileName": "41F9681C-A702-434F-94FD-1B0144CFB93D.jpg",
+          "fileSizeBytes": 159592
+        },
+        {
+          "id": "1486711842796470392",
+          "url": "Elected Admin Daily.json_Files\\43B0F741-194A-4558-AD6E-84BEDC78440F-f2ecceabaaf10b32.png",
+          "fileName": "43B0F741-194A-4558-AD6E-84BEDC78440F.png",
+          "fileSizeBytes": 66897
+        },
+        {
+          "id": "1486711843270557879",
+          "url": "Elected Admin Daily.json_Files\\34FBEC56-54E5-4123-ADB2-91FF3EB84C7D-c407d45525be832b.jpg",
+          "fileName": "34FBEC56-54E5-4123-ADB2-91FF3EB84C7D.jpg",
+          "fileSizeBytes": 165705
+        },
+        {
+          "id": "1486711843782131712",
+          "url": "Elected Admin Daily.json_Files\\8F0FE07D-BDA0-4BD0-9E25-F3B2A37F8C64-bc96bb0ad78cb22d.png",
+          "fileName": "8F0FE07D-BDA0-4BD0-9E25-F3B2A37F8C64.png",
+          "fileSizeBytes": 72966
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1486711960077860965",
+      "type": "Default",
+      "timestamp": "2026-03-26T17:02:33.055+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1486711959767355422",
+          "url": "Elected Admin Daily.json_Files\\C59CA7CD-5607-4739-852F-5E88E78FD925-9bba10e0cd373962.png",
+          "fileName": "C59CA7CD-5607-4739-852F-5E88E78FD925.png",
+          "fileSizeBytes": 297507
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1494962362313343076",
+      "type": "Default",
+      "timestamp": "2026-04-18T11:26:42.233+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1494962359117287575",
+          "url": "Elected Admin Daily.json_Files\\ISs9nQWIHL-abe0cfdd6bc3aa05.png",
+          "fileName": "ISs9nQWIHL.png",
+          "fileSizeBytes": 302350
+        },
+        {
+          "id": "1494962359398043658",
+          "url": "Elected Admin Daily.json_Files\\ojLiOGy4s4-60a951e14e691505.png",
+          "fileName": "ojLiOGy4s4.png",
+          "fileSizeBytes": 296591
+        },
+        {
+          "id": "1494962359796760596",
+          "url": "Elected Admin Daily.json_Files\\oqEDw1FMVc-20c2c7a274dd15f8.png",
+          "fileName": "oqEDw1FMVc.png",
+          "fileSizeBytes": 378592
+        },
+        {
+          "id": "1494962360262201354",
+          "url": "Elected Admin Daily.json_Files\\eqgroNAxsg-170fe1a6480b90e8.png",
+          "fileName": "eqgroNAxsg.png",
+          "fileSizeBytes": 332067
+        },
+        {
+          "id": "1494962360668917840",
+          "url": "Elected Admin Daily.json_Files\\yzr36HRTYp-c362fb1fd3450643.png",
+          "fileName": "yzr36HRTYp.png",
+          "fileSizeBytes": 407067
+        },
+        {
+          "id": "1494962361461899345",
+          "url": "Elected Admin Daily.json_Files\\M4hTV2eZXE-b25034228832736b.png",
+          "fileName": "M4hTV2eZXE.png",
+          "fileSizeBytes": 485242
+        },
+        {
+          "id": "1494962361952374844",
+          "url": "Elected Admin Daily.json_Files\\RFZ2kO65hR-b2f06dc0ab2be175.png",
+          "fileName": "RFZ2kO65hR.png",
+          "fileSizeBytes": 244191
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1495344746132934688",
+      "type": "Default",
+      "timestamp": "2026-04-19T12:46:09.64+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1495344746049306635",
+          "url": "Elected Admin Daily.json_Files\\6ADECBC6-AFE1-4B94-9604-924942F92A79-9a7535723c8fa79f.jpg",
+          "fileName": "6ADECBC6-AFE1-4B94-9604-924942F92A79.jpg",
+          "fileSizeBytes": 141706
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1502709487604334593",
+      "type": "Default",
+      "timestamp": "2026-05-09T20:31:00.837+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1502709480859762719",
+          "url": "Elected Admin Daily.json_Files\\B1E7FD09-6BFF-4EAF-AA8B-D1FB978C0968-30636613b9a11cc9.png",
+          "fileName": "B1E7FD09-6BFF-4EAF-AA8B-D1FB978C0968.png",
+          "fileSizeBytes": 691991
+        },
+        {
+          "id": "1502709481572798525",
+          "url": "Elected Admin Daily.json_Files\\EAC81975-9772-494A-8330-32845B75DE07-2bbdfe95984f2bc6.png",
+          "fileName": "EAC81975-9772-494A-8330-32845B75DE07.png",
+          "fileSizeBytes": 781436
+        },
+        {
+          "id": "1502709482701066340",
+          "url": "Elected Admin Daily.json_Files\\C6D6676F-0AF3-4CDE-9B68-F65D9C1742EF-b2b584c6f4944a15.png",
+          "fileName": "C6D6676F-0AF3-4CDE-9B68-F65D9C1742EF.png",
+          "fileSizeBytes": 3530228
+        },
+        {
+          "id": "1502709482990342185",
+          "url": "Elected Admin Daily.json_Files\\A8EBB129-D25C-4087-90E9-CB285D86708C-9952c24b3aca69f3.png",
+          "fileName": "A8EBB129-D25C-4087-90E9-CB285D86708C.png",
+          "fileSizeBytes": 412798
+        },
+        {
+          "id": "1502709484106285168",
+          "url": "Elected Admin Daily.json_Files\\B777B4C8-6C7E-4CF2-849D-B209ECF97FE6-893cf2c03de66b60.png",
+          "fileName": "B777B4C8-6C7E-4CF2-849D-B209ECF97FE6.png",
+          "fileSizeBytes": 5569835
+        },
+        {
+          "id": "1502709485121179858",
+          "url": "Elected Admin Daily.json_Files\\FB1DED36-4161-4ABA-8BC0-F37459930AA6-a073e7ec047bfb03.png",
+          "fileName": "FB1DED36-4161-4ABA-8BC0-F37459930AA6.png",
+          "fileSizeBytes": 4615298
+        },
+        {
+          "id": "1502709485628559490",
+          "url": "Elected Admin Daily.json_Files\\11FFF9BD-69D5-4B42-A8A4-D7E5770DA194-173e6b112f8f756e.png",
+          "fileName": "11FFF9BD-69D5-4B42-A8A4-D7E5770DA194.png",
+          "fileSizeBytes": 1201732
+        },
+        {
+          "id": "1502709486060830770",
+          "url": "Elected Admin Daily.json_Files\\61135746-9341-4289-BF90-0041EF30B61F-28044a139e1d411e.png",
+          "fileName": "61135746-9341-4289-BF90-0041EF30B61F.png",
+          "fileSizeBytes": 1392655
+        },
+        {
+          "id": "1502709487025393865",
+          "url": "Elected Admin Daily.json_Files\\84AD393F-D6E8-48AE-ADE0-9C24EF62E5C5-73c73002494d2297.png",
+          "fileName": "84AD393F-D6E8-48AE-ADE0-9C24EF62E5C5.png",
+          "fileSizeBytes": 3245325
+        },
+        {
+          "id": "1502709487344029736",
+          "url": "Elected Admin Daily.json_Files\\4316A07C-4CFA-4877-8341-D487E5E44E32-0055eb1c3ea19b10.png",
+          "fileName": "4316A07C-4CFA-4877-8341-D487E5E44E32.png",
+          "fileSizeBytes": 187355
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1502709536753193140",
+      "type": "Default",
+      "timestamp": "2026-05-09T20:31:12.555+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1502709529182212177",
+          "url": "Elected Admin Daily.json_Files\\96AABE8D-088E-4C4A-A98A-885173C6E40A-afab8495224a12ed.png",
+          "fileName": "96AABE8D-088E-4C4A-A98A-885173C6E40A.png",
+          "fileSizeBytes": 1739474
+        },
+        {
+          "id": "1502709530092638399",
+          "url": "Elected Admin Daily.json_Files\\DF44BD71-F379-4E97-82BC-F63C0F81C2E5-e5fd0c5474502c07.png",
+          "fileName": "DF44BD71-F379-4E97-82BC-F63C0F81C2E5.png",
+          "fileSizeBytes": 2005431
+        },
+        {
+          "id": "1502709531099267142",
+          "url": "Elected Admin Daily.json_Files\\A797F0A9-7D70-404F-8DB9-7E3F16BD745D-e3089547a30a2c84.png",
+          "fileName": "A797F0A9-7D70-404F-8DB9-7E3F16BD745D.png",
+          "fileSizeBytes": 3687382
+        },
+        {
+          "id": "1502709531447136396",
+          "url": "Elected Admin Daily.json_Files\\7FE3A7F8-A501-456D-A48F-9EA243CCA5E4-9d3e783ed9f25a7f.png",
+          "fileName": "7FE3A7F8-A501-456D-A48F-9EA243CCA5E4.png",
+          "fileSizeBytes": 420917
+        },
+        {
+          "id": "1502709532374339635",
+          "url": "Elected Admin Daily.json_Files\\3B94055C-3A1F-4833-A3E5-8FF25741879F-fbfa3c65f5b5dea0.png",
+          "fileName": "3B94055C-3A1F-4833-A3E5-8FF25741879F.png",
+          "fileSizeBytes": 3284002
+        },
+        {
+          "id": "1502709532856680640",
+          "url": "Elected Admin Daily.json_Files\\43843179-E2E0-454A-AAA5-AF33159B768E-3cbf964f715b7090.png",
+          "fileName": "43843179-E2E0-454A-AAA5-AF33159B768E.png",
+          "fileSizeBytes": 1013394
+        },
+        {
+          "id": "1502709533896609904",
+          "url": "Elected Admin Daily.json_Files\\D6F067E1-C205-43F9-BBBC-0E0EBC132E1E-7e82d54bb591313a.png",
+          "fileName": "D6F067E1-C205-43F9-BBBC-0E0EBC132E1E.png",
+          "fileSizeBytes": 4427682
+        },
+        {
+          "id": "1502709534974808145",
+          "url": "Elected Admin Daily.json_Files\\413F8BE0-1891-4FF8-85CF-82037FB07655-016c0f710d5fb42d.png",
+          "fileName": "413F8BE0-1891-4FF8-85CF-82037FB07655.png",
+          "fileSizeBytes": 2736692
+        },
+        {
+          "id": "1502709536052740116",
+          "url": "Elected Admin Daily.json_Files\\FAE14A6C-A5B5-4935-B371-0880A60E2091-77d08524cab6744d.png",
+          "fileName": "FAE14A6C-A5B5-4935-B371-0880A60E2091.png",
+          "fileSizeBytes": 4934965
+        },
+        {
+          "id": "1502709536434163882",
+          "url": "Elected Admin Daily.json_Files\\E42A1E8D-D326-46FB-8B45-EB7C874CBBAC-60f7cd9faf0d94cb.png",
+          "fileName": "E42A1E8D-D326-46FB-8B45-EB7C874CBBAC.png",
+          "fileSizeBytes": 662446
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1502709561151193088",
+      "type": "Default",
+      "timestamp": "2026-05-09T20:31:18.372+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1502709556050923741",
+          "url": "Elected Admin Daily.json_Files\\A90F64FC-77B4-4EBD-944B-E363925C7C34-0500cc92f20b79f0.png",
+          "fileName": "A90F64FC-77B4-4EBD-944B-E363925C7C34.png",
+          "fileSizeBytes": 1446808
+        },
+        {
+          "id": "1502709556705366056",
+          "url": "Elected Admin Daily.json_Files\\F21A589E-D514-40E8-AF41-A7B77E21AC3A-8f66c20cbce34ead.png",
+          "fileName": "F21A589E-D514-40E8-AF41-A7B77E21AC3A.png",
+          "fileSizeBytes": 155297
+        },
+        {
+          "id": "1502709557187707040",
+          "url": "Elected Admin Daily.json_Files\\07401118-CD02-4462-B67A-3F46F0B0A62A-f928b9ae9c668b5f.png",
+          "fileName": "07401118-CD02-4462-B67A-3F46F0B0A62A.png",
+          "fileSizeBytes": 219554
+        },
+        {
+          "id": "1502709557627978019",
+          "url": "Elected Admin Daily.json_Files\\2A5EE029-84F7-4CAE-8AC9-8C4FAC405FA2-a6efe17c171ca2e2.png",
+          "fileName": "2A5EE029-84F7-4CAE-8AC9-8C4FAC405FA2.png",
+          "fileSizeBytes": 365138
+        },
+        {
+          "id": "1502709558118977727",
+          "url": "Elected Admin Daily.json_Files\\584D112F-D391-470A-9058-B2ABCDCA8D30-5a83f9a9ab204a8a.png",
+          "fileName": "584D112F-D391-470A-9058-B2ABCDCA8D30.png",
+          "fileSizeBytes": 361385
+        },
+        {
+          "id": "1502709558533947492",
+          "url": "Elected Admin Daily.json_Files\\EE1FB359-B222-456B-81DA-3686C1B16A17-e060aed1d0cd808e.png",
+          "fileName": "EE1FB359-B222-456B-81DA-3686C1B16A17.png",
+          "fileSizeBytes": 311856
+        },
+        {
+          "id": "1502709558894661652",
+          "url": "Elected Admin Daily.json_Files\\BB15F62A-46D2-40EB-8CFF-4916E28878A8-0491a84d09554dbc.png",
+          "fileName": "BB15F62A-46D2-40EB-8CFF-4916E28878A8.png",
+          "fileSizeBytes": 336054
+        },
+        {
+          "id": "1502709559431528579",
+          "url": "Elected Admin Daily.json_Files\\93170D99-152B-41A2-B132-C481A5C341A9-0ee6849980cc6bf4.png",
+          "fileName": "93170D99-152B-41A2-B132-C481A5C341A9.png",
+          "fileSizeBytes": 312873
+        },
+        {
+          "id": "1502709559901552833",
+          "url": "Elected Admin Daily.json_Files\\6DB82CD3-1999-4091-A22E-32A4C5A62384-4ff425c410103e54.png",
+          "fileName": "6DB82CD3-1999-4091-A22E-32A4C5A62384.png",
+          "fileSizeBytes": 266837
+        },
+        {
+          "id": "1502709560735961128",
+          "url": "Elected Admin Daily.json_Files\\C6D6F00F-DD18-4A6F-8A82-3E8F136F7855-3ae7d9f106ebc27a.png",
+          "fileName": "C6D6F00F-DD18-4A6F-8A82-3E8F136F7855.png",
+          "fileSizeBytes": 282920
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508845535312740566",
+      "type": "Default",
+      "timestamp": "2026-05-26T18:53:28.613+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1508845535698751652",
+          "url": "Elected Admin Daily.json_Files\\5F8CCF47-6409-47DE-A1EC-35FFE05FF8DC-72b7bc6be3ad3096.jpg",
+          "fileName": "5F8CCF47-6409-47DE-A1EC-35FFE05FF8DC.jpg",
+          "fileSizeBytes": 110204
+        },
+        {
+          "id": "1508845536004804789",
+          "url": "Elected Admin Daily.json_Files\\C7051E7E-6AE3-4802-8197-4021E25A36B8-2620d647408be507.jpg",
+          "fileName": "C7051E7E-6AE3-4802-8197-4021E25A36B8.jpg",
+          "fileSizeBytes": 181661
+        },
+        {
+          "id": "1508845536256594081",
+          "url": "Elected Admin Daily.json_Files\\C7902077-2DA4-48CE-87BC-C545BED9210E-4a79dba012d7cbcb.jpg",
+          "fileName": "C7902077-2DA4-48CE-87BC-C545BED9210E.jpg",
+          "fileSizeBytes": 175450
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1508846305793937549",
+      "type": "Default",
+      "timestamp": "2026-05-26T18:56:32.31+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1508846306339328220",
+          "url": "Elected Admin Daily.json_Files\\E86EE9E7-F0B9-4FFB-A101-F8D94245C28B-21e83701ba310f32.jpg",
+          "fileName": "E86EE9E7-F0B9-4FFB-A101-F8D94245C28B.jpg",
+          "fileSizeBytes": 195568
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 29
+}

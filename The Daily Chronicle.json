@@ -1,0 +1,160 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "The Daily Chronicle.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1482546182570901575",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "The Daily Chronicle",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:17:56.79159+04:00",
+  "messages": [
+    {
+      "id": "1482546182570901575",
+      "type": "Default",
+      "timestamp": "2026-03-15T05:09:14.301+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from the Daily Chronicle",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Daily Chronicle.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1482546236979675339",
+      "type": "Default",
+      "timestamp": "2026-03-15T05:09:27.273+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Daily Chronicle.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1482546235364872192",
+          "url": "The Daily Chronicle.json_Files\\The_Daily_Chronicle_3-c24c8457f3a29fe3.webp",
+          "fileName": "The_Daily_Chronicle_3.webp",
+          "fileSizeBytes": 439286
+        },
+        {
+          "id": "1482546235700281474",
+          "url": "The Daily Chronicle.json_Files\\Z7pnMNX-6195e57af2a7258e.png",
+          "fileName": "Z7pnMNX.png",
+          "fileSizeBytes": 961518
+        },
+        {
+          "id": "1482546236191019181",
+          "url": "The Daily Chronicle.json_Files\\The_Daily_Chronicle_2-db5b3a3ca7a94160.png",
+          "fileName": "The_Daily_Chronicle_2.png",
+          "fileSizeBytes": 1085142
+        },
+        {
+          "id": "1482546236639805651",
+          "url": "The Daily Chronicle.json_Files\\The_Daily_Chronicle_1-dea8979104c7df01.png",
+          "fileName": "The_Daily_Chronicle_1.png",
+          "fileSizeBytes": 1061939
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

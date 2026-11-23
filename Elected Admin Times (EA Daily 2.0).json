@@ -1,0 +1,304 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Elected Admin Times (EA Daily 2.0).json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1485107981015191633",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Elected Admin Times (EA Daily 2.0)",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:12:29.7393314+04:00",
+  "messages": [
+    {
+      "id": "1485107981015191633",
+      "type": "Default",
+      "timestamp": "2026-03-22T06:48:54.646+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "EA Times from EA Daily 2.0",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Times (EA Daily 2.0).json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1485113342380081283",
+      "type": "Default",
+      "timestamp": "2026-03-22T07:10:12.895+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Times (EA Daily 2.0).json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1485113340840640592",
+          "url": "Elected Admin Times (EA Daily 2.0).json_Files\\Untitled-4-1da3dc35b759e4e6.png",
+          "fileName": "Untitled-4.png",
+          "fileSizeBytes": 7590600
+        },
+        {
+          "id": "1485113341788819578",
+          "url": "Elected Admin Times (EA Daily 2.0).json_Files\\Untitled-5-633370dda8571cbc.png",
+          "fileName": "Untitled-5.png",
+          "fileSizeBytes": 998750
+        },
+        {
+          "id": "1485113342145204295",
+          "url": "Elected Admin Times (EA Daily 2.0).json_Files\\IMG_4250-501d36feb6e7a114.png",
+          "fileName": "IMG_4250.png",
+          "fileSizeBytes": 737885
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1499407122885115995",
+      "type": "Default",
+      "timestamp": "2026-04-30T17:48:35.733+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Times (EA Daily 2.0).json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1499407119852765204",
+          "url": "Elected Admin Times (EA Daily 2.0).json_Files\\Untitled-4-ff7938f46ad707e2.png",
+          "fileName": "Untitled-4.png",
+          "fileSizeBytes": 9852752
+        },
+        {
+          "id": "1499407120938958938",
+          "url": "Elected Admin Times (EA Daily 2.0).json_Files\\Untitled-5-130d7e8a996c727c.png",
+          "fileName": "Untitled-5.png",
+          "fileSizeBytes": 1158113
+        },
+        {
+          "id": "1499407122008510505",
+          "url": "Elected Admin Times (EA Daily 2.0).json_Files\\Untitled-6-e51db0108836e839.png",
+          "fileName": "Untitled-6.png",
+          "fileSizeBytes": 8459917
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1501508552525742080",
+      "type": "Default",
+      "timestamp": "2026-05-06T12:58:55.602+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Times (EA Daily 2.0).json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1501508550613139517",
+          "url": "Elected Admin Times (EA Daily 2.0).json_Files\\Untitled-4-3af1728ec6445b85.png",
+          "fileName": "Untitled-4.png",
+          "fileSizeBytes": 7170132
+        },
+        {
+          "id": "1501508551468912661",
+          "url": "Elected Admin Times (EA Daily 2.0).json_Files\\Untitled-5_1-fd8c543969238da9.png",
+          "fileName": "Untitled-5_1.png",
+          "fileSizeBytes": 1173237
+        },
+        {
+          "id": "1501508552089403492",
+          "url": "Elected Admin Times (EA Daily 2.0).json_Files\\Untitled-6-a8884173d8d14b39.png",
+          "fileName": "Untitled-6.png",
+          "fileSizeBytes": 4388779
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

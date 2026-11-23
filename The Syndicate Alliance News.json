@@ -1,0 +1,289 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "The Syndicate Alliance News.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1321445828728197140",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "The Syndicate Alliance News",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:21:58.0276001+04:00",
+  "messages": [
+    {
+      "id": "1321445828728197140",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:53:56.845+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Every newspaper article from T.S.A News",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Syndicate Alliance News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321445959024115742",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:54:27.91+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Syndicate Alliance News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321445954116915300",
+          "url": "The Syndicate Alliance News.json_Files\\image-2c1d45e4db8a4177.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 930569
+        },
+        {
+          "id": "1321445954716569652",
+          "url": "The Syndicate Alliance News.json_Files\\image-956bf4fece24d37d.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 850730
+        },
+        {
+          "id": "1321445955312025630",
+          "url": "The Syndicate Alliance News.json_Files\\image-64a35f3ef068c8d5.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 423730
+        },
+        {
+          "id": "1321445955945500743",
+          "url": "The Syndicate Alliance News.json_Files\\image-003840a7b7950cd7.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 394411
+        },
+        {
+          "id": "1321445956415127653",
+          "url": "The Syndicate Alliance News.json_Files\\Titelloses_63_20240521020953-85e66f4c2fa04600.png",
+          "fileName": "Titelloses_63_20240521020953.png",
+          "fileSizeBytes": 242319
+        },
+        {
+          "id": "1321445956901802094",
+          "url": "The Syndicate Alliance News.json_Files\\Titelloses_62_20240520121153-d405da179c956e05.png",
+          "fileName": "Titelloses_62_20240520121153.png",
+          "fileSizeBytes": 197828
+        },
+        {
+          "id": "1321445957388206090",
+          "url": "The Syndicate Alliance News.json_Files\\Titelloses_60_20240520032237-8e7be229ec86903b.png",
+          "fileName": "Titelloses_60_20240520032237.png",
+          "fileSizeBytes": 180356
+        },
+        {
+          "id": "1321445957803577424",
+          "url": "The Syndicate Alliance News.json_Files\\NewsPaper7-6de2c866160dab33.png",
+          "fileName": "NewsPaper7.png",
+          "fileSizeBytes": 389194
+        },
+        {
+          "id": "1321445958155767869",
+          "url": "The Syndicate Alliance News.json_Files\\image-10fd9dc6fa28aa26.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 189805
+        },
+        {
+          "id": "1321445958608883712",
+          "url": "The Syndicate Alliance News.json_Files\\image-1f2dea86dc86ebfe.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 216886
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321446026858729492",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:54:44.083+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Syndicate Alliance News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321446024962637824",
+          "url": "The Syndicate Alliance News.json_Files\\Newspaper6-5be899cfc8aa5aa2.png",
+          "fileName": "Newspaper6.png",
+          "fileSizeBytes": 238929
+        },
+        {
+          "id": "1321446025415884882",
+          "url": "The Syndicate Alliance News.json_Files\\Newspaper5-56f9c4a07e1f751e.png",
+          "fileName": "Newspaper5.png",
+          "fileSizeBytes": 295344
+        },
+        {
+          "id": "1321446025713418260",
+          "url": "The Syndicate Alliance News.json_Files\\Newspaper4-4d8d1e0eaea1eae1.png",
+          "fileName": "Newspaper4.png",
+          "fileSizeBytes": 84997
+        },
+        {
+          "id": "1321446026032447561",
+          "url": "The Syndicate Alliance News.json_Files\\Newspaper3-332d8b59e497d7d5.png",
+          "fileName": "Newspaper3.png",
+          "fileSizeBytes": 295982
+        },
+        {
+          "id": "1321446026346758236",
+          "url": "The Syndicate Alliance News.json_Files\\T.S.A_News2-10a4592d98e10463.png",
+          "fileName": "T.S.A_News2.png",
+          "fileSizeBytes": 51066
+        },
+        {
+          "id": "1321446026640621659",
+          "url": "The Syndicate Alliance News.json_Files\\T.S.A_News1-2c56ba2a060209cf.png",
+          "fileName": "T.S.A_News1.png",
+          "fileSizeBytes": 70778
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

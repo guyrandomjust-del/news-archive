@@ -1,0 +1,283 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Portullian Times.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1321444864381943860",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Portullian Times",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:23:20.834475+04:00",
+  "messages": [
+    {
+      "id": "1321444864381943860",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:50:06.927+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Every newspaper article from Portullian Times",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Portullian Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321444991176020038",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:50:37.157+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Portullian Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321444985878478888",
+          "url": "Portullian Times.json_Files\\3F77E257-BC18-43AA-885A-F5079DD92A83-41436c59b59d4508.png",
+          "fileName": "3F77E257-BC18-43AA-885A-F5079DD92A83.png",
+          "fileSizeBytes": 319909
+        },
+        {
+          "id": "1321444986381668352",
+          "url": "Portullian Times.json_Files\\56CB9A23-0C8B-407F-BF16-49E86F0EF511-37eda53c68062f83.png",
+          "fileName": "56CB9A23-0C8B-407F-BF16-49E86F0EF511.png",
+          "fileSizeBytes": 310763
+        },
+        {
+          "id": "1321444986977255434",
+          "url": "Portullian Times.json_Files\\2148799B-8134-4752-8CE6-9EC672203BEF-0b38f728679a2b62.png",
+          "fileName": "2148799B-8134-4752-8CE6-9EC672203BEF.png",
+          "fileSizeBytes": 276355
+        },
+        {
+          "id": "1321444987749138484",
+          "url": "Portullian Times.json_Files\\BE93E637-FE09-48C9-8B48-07D27E5FD99A-e1eae0b60dc926d0.png",
+          "fileName": "BE93E637-FE09-48C9-8B48-07D27E5FD99A.png",
+          "fileSizeBytes": 582420
+        },
+        {
+          "id": "1321444988248133673",
+          "url": "Portullian Times.json_Files\\E7E3EB08-FE85-4972-A0FC-0A56E3083626-89d78b8cfe69d8a3.png",
+          "fileName": "E7E3EB08-FE85-4972-A0FC-0A56E3083626.png",
+          "fileSizeBytes": 545154
+        },
+        {
+          "id": "1321444988709503007",
+          "url": "Portullian Times.json_Files\\C4F85994-6F9D-432C-B879-4BB7C678E03A-291f75fa0fb00e8d.png",
+          "fileName": "C4F85994-6F9D-432C-B879-4BB7C678E03A.png",
+          "fileSizeBytes": 336375
+        },
+        {
+          "id": "1321444989292642362",
+          "url": "Portullian Times.json_Files\\C33D3BC6-0F66-4EA8-A096-AC400FC936AD-3149f6f3c3ba975c.png",
+          "fileName": "C33D3BC6-0F66-4EA8-A096-AC400FC936AD.png",
+          "fileSizeBytes": 412106
+        },
+        {
+          "id": "1321444989766602802",
+          "url": "Portullian Times.json_Files\\8A7C3F72-B8D5-41AA-824D-4046D8B34009-524826abdb6ce826.png",
+          "fileName": "8A7C3F72-B8D5-41AA-824D-4046D8B34009.png",
+          "fileSizeBytes": 273360
+        },
+        {
+          "id": "1321444990240690176",
+          "url": "Portullian Times.json_Files\\EE1AC284-B78A-4D94-8C68-63A06563049B-f27cbc34305df650.png",
+          "fileName": "EE1AC284-B78A-4D94-8C68-63A06563049B.png",
+          "fileSizeBytes": 330093
+        },
+        {
+          "id": "1321444990752129085",
+          "url": "Portullian Times.json_Files\\A3349E69-C9F6-48EA-9B8C-27DF8D3A0A72-b943991d0e92da35.png",
+          "fileName": "A3349E69-C9F6-48EA-9B8C-27DF8D3A0A72.png",
+          "fileSizeBytes": 409175
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321445054207758356",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:50:52.185+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Portullian Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321445052278640680",
+          "url": "Portullian Times.json_Files\\C93070A6-8524-4B26-B3E5-E45C03F5ABB4-350fbf25015750dc.png",
+          "fileName": "C93070A6-8524-4B26-B3E5-E45C03F5ABB4.png",
+          "fileSizeBytes": 255757
+        },
+        {
+          "id": "1321445052718911508",
+          "url": "Portullian Times.json_Files\\D97EB347-CC6B-4CA4-8869-1984421A3F38-7998d8ab12168620.png",
+          "fileName": "D97EB347-CC6B-4CA4-8869-1984421A3F38.png",
+          "fileSizeBytes": 594187
+        },
+        {
+          "id": "1321445053109112873",
+          "url": "Portullian Times.json_Files\\EE5AD480-5162-4A2F-ACA5-50EEB808A9D2-0c3baf1cde9c83fc.png",
+          "fileName": "EE5AD480-5162-4A2F-ACA5-50EEB808A9D2.png",
+          "fileSizeBytes": 318573
+        },
+        {
+          "id": "1321445053511503933",
+          "url": "Portullian Times.json_Files\\4BCECC7A-2F14-4E6F-9525-D85EFA5AE6A1-56dacc0d535dbcf2.png",
+          "fileName": "4BCECC7A-2F14-4E6F-9525-D85EFA5AE6A1.png",
+          "fileSizeBytes": 185430
+        },
+        {
+          "id": "1321445053905895424",
+          "url": "Portullian Times.json_Files\\AED3F752-7F40-42CE-957C-BBE288CC5082-dfe98134057a1713.png",
+          "fileName": "AED3F752-7F40-42CE-957C-BBE288CC5082.png",
+          "fileSizeBytes": 185430
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

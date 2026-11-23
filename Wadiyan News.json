@@ -1,0 +1,271 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Wadiyan News.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1321443285503578136",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Wadiyan News",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:19:59.0598911+04:00",
+  "messages": [
+    {
+      "id": "1321443285503578136",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:43:50.493+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Every newspaper from Wadiya",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Wadiyan News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1333805825583485008",
+      "type": "Default",
+      "timestamp": "2025-01-28T18:28:09.733+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unnamed Wadiyan News Network",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Wadiyan News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1333805824912396309",
+          "url": "Wadiyan News.json_Files\\CB36893F-0AFA-44E9-9152-4D843270D7DD-5b68f4bda125fde3.jpg",
+          "fileName": "CB36893F-0AFA-44E9-9152-4D843270D7DD.jpg",
+          "fileSizeBytes": 20461
+        },
+        {
+          "id": "1333805825147539597",
+          "url": "Wadiyan News.json_Files\\B58C3309-AAC8-4529-A953-5C345E94993C-07eb89f412f7c7e9.jpg",
+          "fileName": "B58C3309-AAC8-4529-A953-5C345E94993C.jpg",
+          "fileSizeBytes": 23502
+        },
+        {
+          "id": "1333805825403125923",
+          "url": "Wadiyan News.json_Files\\F82C9D91-8766-4020-B2A5-E684E01980B0-dcb953f2e547fab5.jpg",
+          "fileName": "F82C9D91-8766-4020-B2A5-E684E01980B0.jpg",
+          "fileSizeBytes": 20619
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1333805921553481761",
+      "type": "Default",
+      "timestamp": "2025-01-28T18:28:32.614+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Praladeen",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Wadiyan News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1333805917342400522",
+          "url": "Wadiyan News.json_Files\\test_PRALADEEN-88bf851651415132.jpg",
+          "fileName": "test_PRALADEEN.jpg",
+          "fileSizeBytes": 544658
+        },
+        {
+          "id": "1333805917736538163",
+          "url": "Wadiyan News.json_Files\\IMG_0567-9c7b5613f3aecf22.png",
+          "fileName": "IMG_0567.png",
+          "fileSizeBytes": 346100
+        },
+        {
+          "id": "1333805918101569618",
+          "url": "Wadiyan News.json_Files\\IMG_0578-72b9f2c393e151e7.png",
+          "fileName": "IMG_0578.png",
+          "fileSizeBytes": 767365
+        },
+        {
+          "id": "1333805918474997780",
+          "url": "Wadiyan News.json_Files\\IMG_0579-dd12776c5e40db95.png",
+          "fileName": "IMG_0579.png",
+          "fileSizeBytes": 636301
+        },
+        {
+          "id": "1333805918843830342",
+          "url": "Wadiyan News.json_Files\\IMG_0587-95005592d2251976.png",
+          "fileName": "IMG_0587.png",
+          "fileSizeBytes": 892612
+        },
+        {
+          "id": "1333805919678759023",
+          "url": "Wadiyan News.json_Files\\Screenshot_20241113_195518_Canva-86b02c094d334d58.jpg",
+          "fileName": "Screenshot_20241113_195518_Canva.jpg",
+          "fileSizeBytes": 3477804
+        },
+        {
+          "id": "1333805920328749077",
+          "url": "Wadiyan News.json_Files\\Screenshot_20241118_155740_Canva-fc7e92e435c6617e.jpg",
+          "fileName": "Screenshot_20241118_155740_Canva.jpg",
+          "fileSizeBytes": 1369698
+        },
+        {
+          "id": "1333805920680935555",
+          "url": "Wadiyan News.json_Files\\Screenshot_20241216_095403_Slides-8126e6e33131239e.jpg",
+          "fileName": "Screenshot_20241216_095403_Slides.jpg",
+          "fileSizeBytes": 459399
+        },
+        {
+          "id": "1333805921008353382",
+          "url": "Wadiyan News.json_Files\\Screenshot_20241216_095440_Slides-0a33cf1bf545097a.jpg",
+          "fileName": "Screenshot_20241216_095440_Slides.jpg",
+          "fileSizeBytes": 401053
+        },
+        {
+          "id": "1333805921335250975",
+          "url": "Wadiyan News.json_Files\\Screenshot_20241216_095419_Slides-3a17c1e6e3ced2c1.jpg",
+          "fileName": "Screenshot_20241216_095419_Slides.jpg",
+          "fileSizeBytes": 407025
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

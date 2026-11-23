@@ -1,0 +1,298 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Electan Faction News.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1499615961869975672",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Electan Faction News",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:13:41.8423213+04:00",
+  "messages": [
+    {
+      "id": "1499615961869975672",
+      "type": "Default",
+      "timestamp": "2026-05-01T07:38:26.827+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from the Electan Faction News",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electan Faction News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1499859462587154543",
+      "type": "Default",
+      "timestamp": "2026-05-01T23:46:01.922+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electan Faction News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1499859461416947914",
+          "url": "Electan Faction News.json_Files\\Untitled-2_13-212e15c589a475c9.png",
+          "fileName": "Untitled-2_13.png",
+          "fileSizeBytes": 3223566
+        },
+        {
+          "id": "1499859461949489163",
+          "url": "Electan Faction News.json_Files\\Screenshot_2026-05-01_at_19.07.38-18d59d2a188edfaa.png",
+          "fileName": "Screenshot_2026-05-01_at_19.07.38.png",
+          "fileSizeBytes": 654371
+        },
+        {
+          "id": "1499859462360399912",
+          "url": "Electan Faction News.json_Files\\Screenshot_2026-05-01_at_19.48.55-8bd7348149fef8fc.png",
+          "fileName": "Screenshot_2026-05-01_at_19.48.55.png",
+          "fileSizeBytes": 528099
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1500627354790137977",
+      "type": "Default",
+      "timestamp": "2026-05-04T02:37:21.69+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electan Faction News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1500627353209012274",
+          "url": "Electan Faction News.json_Files\\Screenshot_2026-05-02_at_12.37.40-072fcf0d9d5ef69d.png",
+          "fileName": "Screenshot_2026-05-02_at_12.37.40.png",
+          "fileSizeBytes": 560665
+        },
+        {
+          "id": "1500627353410211940",
+          "url": "Electan Faction News.json_Files\\Screenshot_2026-05-02_at_23.35.07-8169bdac3634d38a.png",
+          "fileName": "Screenshot_2026-05-02_at_23.35.07.png",
+          "fileSizeBytes": 140464
+        },
+        {
+          "id": "1500627353678905514",
+          "url": "Electan Faction News.json_Files\\Screenshot_2026-05-03_at_16.49.26-e13e5fff9f8b0546.png",
+          "fileName": "Screenshot_2026-05-03_at_16.49.26.png",
+          "fileSizeBytes": 536962
+        },
+        {
+          "id": "1500627354177896578",
+          "url": "Electan Faction News.json_Files\\Untitled-2_15-fc4bbe7c30c6462e.png",
+          "fileName": "Untitled-2_15.png",
+          "fileSizeBytes": 2847936
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1500890024961511526",
+      "type": "Default",
+      "timestamp": "2026-05-04T20:01:07.139+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electan Faction News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1500890024743534673",
+          "url": "Electan Faction News.json_Files\\Screenshot_2026-05-04_at_16.44.37-c6941812942632cc.png",
+          "fileName": "Screenshot_2026-05-04_at_16.44.37.png",
+          "fileSizeBytes": 586126
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

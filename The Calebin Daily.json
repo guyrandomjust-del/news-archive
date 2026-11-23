@@ -1,0 +1,235 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "The Calebin Daily.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1505477365000830986",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "The Calebin Daily",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:11:20.4052795+04:00",
+  "messages": [
+    {
+      "id": "1505477365000830986",
+      "type": "Default",
+      "timestamp": "2026-05-17T11:49:34.233+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from the Calebin Daily in the Second Calebin Empire",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Calebin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1505851547567788054",
+      "type": "Default",
+      "timestamp": "2026-05-18T12:36:26.309+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Calebin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1505851548100726835",
+          "url": "The Calebin Daily.json_Files\\May_16th_TCD_issue_2-c52ed7251abce58e.png",
+          "fileName": "May_16th_TCD_issue_2.png",
+          "fileSizeBytes": 229727
+        },
+        {
+          "id": "1505851548410843136",
+          "url": "The Calebin Daily.json_Files\\May_15th_TCD_issue-a721c39a8a1947d5.png",
+          "fileName": "May_15th_TCD_issue.png",
+          "fileSizeBytes": 217046
+        },
+        {
+          "id": "1505851548662759444",
+          "url": "The Calebin Daily.json_Files\\May_16th_TCD_issue-7f880e4cac07d235.png",
+          "fileName": "May_16th_TCD_issue.png",
+          "fileSizeBytes": 219594
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1506972206477869086",
+      "type": "Default",
+      "timestamp": "2026-05-21T14:49:32.214+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Calebin Daily.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1506972206717206568",
+          "url": "The Calebin Daily.json_Files\\May_17th_TCD_issue-4f7db7658f68586b.png",
+          "fileName": "May_17th_TCD_issue.png",
+          "fileSizeBytes": 248174
+        },
+        {
+          "id": "1506972207111475310",
+          "url": "The Calebin Daily.json_Files\\May_18th_TCD_issue-de389a0248eae96e.png",
+          "fileName": "May_18th_TCD_issue.png",
+          "fileSizeBytes": 277257
+        },
+        {
+          "id": "1506972207459340390",
+          "url": "The Calebin Daily.json_Files\\May_19th_TCD_issue-580713aef2001735.png",
+          "fileName": "May_19th_TCD_issue.png",
+          "fileSizeBytes": 63066
+        },
+        {
+          "id": "1506972207916777602",
+          "url": "The Calebin Daily.json_Files\\May_20th_TCD_issue-661b3d592b6d9563.png",
+          "fileName": "May_20th_TCD_issue.png",
+          "fileSizeBytes": 263723
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

@@ -1,0 +1,196 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Hyropian Bugle.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1321445459096506410",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Hyropian Bugle",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:22:27.5954474+04:00",
+  "messages": [
+    {
+      "id": "1321445459096506410",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:52:28.718+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Every newspaper article from Hyropian Bugle",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Hyropian Bugle.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1321445695349067808",
+      "type": "Default",
+      "timestamp": "2024-12-25T15:53:25.045+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Hyropian Bugle.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1321445686914449500",
+          "url": "Hyropian Bugle.json_Files\\Bugle_war_20241014_165912_0000-00afa8b32cc7c62a.png",
+          "fileName": "Bugle_war_20241014_165912_0000.png",
+          "fileSizeBytes": 2692452
+        },
+        {
+          "id": "1321445687698784306",
+          "url": "Hyropian Bugle.json_Files\\Bugle_elections_2_20241010_122254_0000-784c137bd0005a19.png",
+          "fileName": "Bugle_elections_2_20241010_122254_0000.png",
+          "fileSizeBytes": 2670280
+        },
+        {
+          "id": "1321445688533585983",
+          "url": "Hyropian Bugle.json_Files\\Bugle_elections_20241007_233901_0000-b30654733eb195ae.png",
+          "fileName": "Bugle_elections_20241007_233901_0000.png",
+          "fileSizeBytes": 2752230
+        },
+        {
+          "id": "1321445689473105952",
+          "url": "Hyropian Bugle.json_Files\\Bugle_victory_2_20241004_125410_0000-1533c1da0b0c7b07.png",
+          "fileName": "Bugle_victory_2_20241004_125410_0000.png",
+          "fileSizeBytes": 2775655
+        },
+        {
+          "id": "1321445690605441104",
+          "url": "Hyropian Bugle.json_Files\\Bugle_Murder_here_2_20240928_125634_0000-7c37a6572f1e245a.png",
+          "fileName": "Bugle_Murder_here_2_20240928_125634_0000.png",
+          "fileSizeBytes": 2726467
+        },
+        {
+          "id": "1321445691515736147",
+          "url": "Hyropian Bugle.json_Files\\Bugle_Currency_20240927_093102_0000-9f28077cff4e173c.png",
+          "fileName": "Bugle_Currency_20240927_093102_0000.png",
+          "fileSizeBytes": 5198158
+        },
+        {
+          "id": "1321445692408987709",
+          "url": "Hyropian Bugle.json_Files\\1-ec2284d74c6f6157.png",
+          "fileName": "1.png",
+          "fileSizeBytes": 2623086
+        },
+        {
+          "id": "1321445693319151677",
+          "url": "Hyropian Bugle.json_Files\\1_20240922_172434_0000-fbe5dc498d5340ed.png",
+          "fileName": "1_20240922_172434_0000.png",
+          "fileSizeBytes": 2683632
+        },
+        {
+          "id": "1321445694078324796",
+          "url": "Hyropian Bugle.json_Files\\1_20240918_115420_0000-f1714d559e96c7ca.png",
+          "fileName": "1_20240918_115420_0000.png",
+          "fileSizeBytes": 2546466
+        },
+        {
+          "id": "1321445695034753066",
+          "url": "Hyropian Bugle.json_Files\\Bugle_20240917_170402_0000-2adaa6bb6a974d6b.png",
+          "fileName": "Bugle_20240917_170402_0000.png",
+          "fileSizeBytes": 4151290
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

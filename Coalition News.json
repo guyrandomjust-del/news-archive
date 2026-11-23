@@ -1,0 +1,247 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Coalition News.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1482218213889806457",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Coalition News",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:16:49.2948257+04:00",
+  "messages": [
+    {
+      "id": "1482218213889806457",
+      "type": "Default",
+      "timestamp": "2026-03-14T07:26:00.474+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from the Coalition News in the Danzig Coalition",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Coalition News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1482218707894927512",
+      "type": "Default",
+      "timestamp": "2026-03-14T07:27:58.254+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Coalition News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1482218705516761180",
+          "url": "Coalition News.json_Files\\obrazek-fcf7239f8fc3e9e4.png",
+          "fileName": "obrazek.png",
+          "fileSizeBytes": 39772
+        },
+        {
+          "id": "1482218706162417796",
+          "url": "Coalition News.json_Files\\obrazek-64343eb54c857673.png",
+          "fileName": "obrazek.png",
+          "fileSizeBytes": 87260
+        },
+        {
+          "id": "1482218706426921102",
+          "url": "Coalition News.json_Files\\obrazek-db8b52eb83c4e496.png",
+          "fileName": "obrazek.png",
+          "fileSizeBytes": 39665
+        },
+        {
+          "id": "1482218706653417544",
+          "url": "Coalition News.json_Files\\obrazek-5c3dab92c65a9ee1.png",
+          "fileName": "obrazek.png",
+          "fileSizeBytes": 46336
+        },
+        {
+          "id": "1482218706900615310",
+          "url": "Coalition News.json_Files\\obrazek-f49002544ccfa0b2.png",
+          "fileName": "obrazek.png",
+          "fileSizeBytes": 45623
+        },
+        {
+          "id": "1482218707135758517",
+          "url": "Coalition News.json_Files\\obrazek-0656ca3e872f0508.png",
+          "fileName": "obrazek.png",
+          "fileSizeBytes": 60676
+        },
+        {
+          "id": "1482218707412586577",
+          "url": "Coalition News.json_Files\\obrazek-a2b03113acd0e15a.png",
+          "fileName": "obrazek.png",
+          "fileSizeBytes": 70384
+        },
+        {
+          "id": "1482218707676561449",
+          "url": "Coalition News.json_Files\\obrazek-4a2e60cff008bfda.png",
+          "fileName": "obrazek.png",
+          "fileSizeBytes": 18732
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1483561644654203093",
+      "type": "Default",
+      "timestamp": "2026-03-18T00:24:19.328+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Coalition News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1483561644243030158",
+          "url": "Coalition News.json_Files\\obrazek-b6200f776c2137ee.png",
+          "fileName": "obrazek.png",
+          "fileSizeBytes": 51523
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

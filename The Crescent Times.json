@@ -1,0 +1,430 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "The Crescent Times.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1498305924836884500",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "The Crescent Times",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:11:47.7875196+04:00",
+  "messages": [
+    {
+      "id": "1498305924836884500",
+      "type": "Default",
+      "timestamp": "2026-04-27T16:52:49.659+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from the Crescent Times in the Second Republic of Crescent",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Crescent Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1499859732524171264",
+      "type": "Default",
+      "timestamp": "2026-05-01T23:47:06.28+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Crescent Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1499859730892591154",
+          "url": "The Crescent Times.json_Files\\Picsart_26-04-28_08-16-00-234-70222b45ac530920.jpg",
+          "fileName": "Picsart_26-04-28_08-16-00-234.jpg",
+          "fileSizeBytes": 136203
+        },
+        {
+          "id": "1499859731265617962",
+          "url": "The Crescent Times.json_Files\\Picsart_26-04-27_01-29-46-039-6ab328d5a378045e.jpg",
+          "fileName": "Picsart_26-04-27_01-29-46-039.jpg",
+          "fileSizeBytes": 137004
+        },
+        {
+          "id": "1499859731634720919",
+          "url": "The Crescent Times.json_Files\\Picsart_26-04-28_21-45-02-459-406c1e11a400a153.jpg",
+          "fileName": "Picsart_26-04-28_21-45-02-459.jpg",
+          "fileSizeBytes": 133868
+        },
+        {
+          "id": "1499859732054278407",
+          "url": "The Crescent Times.json_Files\\Picsart_26-04-29_21-37-51-858-5348925199a0e929.jpg",
+          "fileName": "Picsart_26-04-29_21-37-51-858.jpg",
+          "fileSizeBytes": 186601
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1500384629432258701",
+      "type": "Default",
+      "timestamp": "2026-05-03T10:32:51.455+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Crescent Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1500384629138395226",
+          "url": "The Crescent Times.json_Files\\Picsart_26-05-03_05-49-03-386-1f50eeafa83ef791.jpg",
+          "fileName": "Picsart_26-05-03_05-49-03-386.jpg",
+          "fileSizeBytes": 172719
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1502276530825592893",
+      "type": "Default",
+      "timestamp": "2026-05-08T15:50:35.897+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Crescent Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1502276530699767888",
+          "url": "The Crescent Times.json_Files\\Picsart_26-05-07_08-43-46-607-b7d5529d1e35611c.jpg",
+          "fileName": "Picsart_26-05-07_08-43-46-607.jpg",
+          "fileSizeBytes": 118091
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1502328041735717024",
+      "type": "Default",
+      "timestamp": "2026-05-08T19:15:17.055+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Crescent Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1502328041462956152",
+          "url": "The Crescent Times.json_Files\\Picsart_25-03-22_05-22-32-165-0faa8847833c32e5.png",
+          "fileName": "Picsart_25-03-22_05-22-32-165.png",
+          "fileSizeBytes": 337701
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1504250479524315266",
+      "type": "Default",
+      "timestamp": "2026-05-14T02:34:21.941+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "The Crescent Times.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1504250479629303808",
+          "url": "The Crescent Times.json_Files\\Picsart_26-05-12_20-49-25-809-520d0d2ba9402497.jpg",
+          "fileName": "Picsart_26-05-12_20-49-25-809.jpg",
+          "fileSizeBytes": 136742
+        },
+        {
+          "id": "1504250479935225877",
+          "url": "The Crescent Times.json_Files\\Picsart_26-05-12_01-53-03-003-b5f8a754b24562ae.jpg",
+          "fileName": "Picsart_26-05-12_01-53-03-003.jpg",
+          "fileSizeBytes": 128023
+        },
+        {
+          "id": "1504250480237346986",
+          "url": "The Crescent Times.json_Files\\Picsart_26-05-11_02-43-05-841-7192b9ed84c39ddf.jpg",
+          "fileName": "Picsart_26-05-11_02-43-05-841.jpg",
+          "fileSizeBytes": 134917
+        },
+        {
+          "id": "1504250480535273502",
+          "url": "The Crescent Times.json_Files\\Picsart_26-05-13_21-24-03-938-87ede208507d7052.jpg",
+          "fileName": "Picsart_26-05-13_21-24-03-938.jpg",
+          "fileSizeBytes": 132815
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}

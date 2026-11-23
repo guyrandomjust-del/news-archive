@@ -1,0 +1,346 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Electan News.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1446095344529309787",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Electan News",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:19:38.6718755+04:00",
+  "messages": [
+    {
+      "id": "1446095344529309787",
+      "type": "Default",
+      "timestamp": "2025-12-04T15:06:37.288+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from Electan News",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electan News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1446095503090782329",
+      "type": "Default",
+      "timestamp": "2025-12-04T15:07:15.092+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electan News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1446095499298869279",
+          "url": "Electan News.json_Files\\F342A147-3C48-44E4-B642-6AD09F5F2406-425cb6293db5cdb2.png",
+          "fileName": "F342A147-3C48-44E4-B642-6AD09F5F2406.png",
+          "fileSizeBytes": 600102
+        },
+        {
+          "id": "1446095499617632276",
+          "url": "Electan News.json_Files\\389D66D6-583E-47C7-8DD1-A2EF1008E6B3-22790c0e47a33141.png",
+          "fileName": "389D66D6-583E-47C7-8DD1-A2EF1008E6B3.png",
+          "fileSizeBytes": 582262
+        },
+        {
+          "id": "1446095499911499848",
+          "url": "Electan News.json_Files\\27963880-E6F5-4E7E-9811-EB8B81360EDC-f7348bd851eca035.png",
+          "fileName": "27963880-E6F5-4E7E-9811-EB8B81360EDC.png",
+          "fileSizeBytes": 531390
+        },
+        {
+          "id": "1446095500263559269",
+          "url": "Electan News.json_Files\\4600D440-99FC-4387-9B62-7DBD71F3B820-4f823fbefe1f94c2.png",
+          "fileName": "4600D440-99FC-4387-9B62-7DBD71F3B820.png",
+          "fileSizeBytes": 578456
+        },
+        {
+          "id": "1446095500590973083",
+          "url": "Electan News.json_Files\\52201A4C-60AD-4991-82D1-9AB5DB6AB4BE-09bbeea5a8405968.png",
+          "fileName": "52201A4C-60AD-4991-82D1-9AB5DB6AB4BE.png",
+          "fileSizeBytes": 527957
+        },
+        {
+          "id": "1446095500976590910",
+          "url": "Electan News.json_Files\\D04C0989-6836-4E1E-B1AC-4F326D2D7F95-cb56d8a3da529949.png",
+          "fileName": "D04C0989-6836-4E1E-B1AC-4F326D2D7F95.png",
+          "fileSizeBytes": 692798
+        },
+        {
+          "id": "1446095501543079977",
+          "url": "Electan News.json_Files\\B981941D-ECCA-4F91-89C4-1725A17E80FB-4099dc9d0b3ec911.png",
+          "fileName": "B981941D-ECCA-4F91-89C4-1725A17E80FB.png",
+          "fileSizeBytes": 480293
+        },
+        {
+          "id": "1446095501945602108",
+          "url": "Electan News.json_Files\\A41AE928-E8F8-43E4-BA45-4474E5D93917-edc966d2d35f40e0.png",
+          "fileName": "A41AE928-E8F8-43E4-BA45-4474E5D93917.png",
+          "fileSizeBytes": 651115
+        },
+        {
+          "id": "1446095502381813790",
+          "url": "Electan News.json_Files\\D1B2DD57-D154-4F46-8491-6764FBAECF70-16c6273543f4a4b1.png",
+          "fileName": "D1B2DD57-D154-4F46-8491-6764FBAECF70.png",
+          "fileSizeBytes": 1212631
+        },
+        {
+          "id": "1446095502826537201",
+          "url": "Electan News.json_Files\\CAF3CA7F-03F4-43BE-99E4-C3CC549641C8-3b44bea2fa6b8e46.png",
+          "fileName": "CAF3CA7F-03F4-43BE-99E4-C3CC549641C8.png",
+          "fileSizeBytes": 668734
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1446095589132734516",
+      "type": "Default",
+      "timestamp": "2025-12-04T15:07:35.606+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electan News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1446095587450683542",
+          "url": "Electan News.json_Files\\F7B34B02-B378-421D-A4BA-473B42BBD1A3-262118566ed2af36.png",
+          "fileName": "F7B34B02-B378-421D-A4BA-473B42BBD1A3.png",
+          "fileSizeBytes": 579992
+        },
+        {
+          "id": "1446095587916255323",
+          "url": "Electan News.json_Files\\417D4821-A327-42F8-A9E0-A7614C613F43-d05f9b2ef6523937.png",
+          "fileName": "417D4821-A327-42F8-A9E0-A7614C613F43.png",
+          "fileSizeBytes": 523059
+        },
+        {
+          "id": "1446095588285485137",
+          "url": "Electan News.json_Files\\5EE652EF-34D2-4CDD-9BCD-5F4D2F4FA3AF-1fa3a3aab8129818.png",
+          "fileName": "5EE652EF-34D2-4CDD-9BCD-5F4D2F4FA3AF.png",
+          "fileSizeBytes": 566006
+        },
+        {
+          "id": "1446095588625088583",
+          "url": "Electan News.json_Files\\1A2579A8-12D3-4C6F-A25F-B8288EA47506-5b13a08e727da035.png",
+          "fileName": "1A2579A8-12D3-4C6F-A25F-B8288EA47506.png",
+          "fileSizeBytes": 574439
+        },
+        {
+          "id": "1446095588943859854",
+          "url": "Electan News.json_Files\\33AAE81C-90BF-499F-A7D4-CAA67EC2B8D9-dccae7949cce1742.png",
+          "fileName": "33AAE81C-90BF-499F-A7D4-CAA67EC2B8D9.png",
+          "fileSizeBytes": 800293
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1480900265778610217",
+      "type": "Default",
+      "timestamp": "2026-03-10T16:08:57.158+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Electan News.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1480900265270972507",
+          "url": "Electan News.json_Files\\B00C2C1B-87FD-4353-8E05-8FCC0F507B85-59084449e8496b0c.png",
+          "fileName": "B00C2C1B-87FD-4353-8E05-8FCC0F507B85.png",
+          "fileSizeBytes": 1182931
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}
